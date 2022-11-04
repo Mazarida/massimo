@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:12 .
+drwxr-xr-x  14 ftp      ftp          4096 Jun 13 02:13 ..
+-rw-r--r--   1 ftp      ftp           272 Jan 25  2019 class-wcml-product-gallery-filter-factory.php
+-rw-r--r--   1 ftp      ftp          1864 Jan 25  2019 class-wcml-product-gallery-filter.php
+-rw-r--r--   1 ftp      ftp           268 Jan 25  2019 class-wcml-product-image-filter-factory.php
+-rw-r--r--   1 ftp      ftp          1606 Jan 25  2019 class-wcml-product-image-filter.php
+-rw-r--r--   1 ftp      ftp           384 Jan 25  2019 class-wcml-update-product-gallery-translation-factory.php
+-rw-r--r--   1 ftp      ftp          3122 Jan 25  2019 class-wcml-update-product-gallery-translation.php
+-rw-r--r--   1 ftp      ftp           187 Jan 25  2019 class-wml-append-gallery-to-post-media-ids-factory.php
+-rw-r--r--   1 ftp      ftp           662 Jan 25  2019 class-wml-append-gallery-to-post-media-ids.php

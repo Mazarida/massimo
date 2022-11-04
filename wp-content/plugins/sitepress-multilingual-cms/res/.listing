@@ -1,0 +1,10 @@
+drwxr-xr-x   9 ftp      ftp          4096 Jun 13 01:10 .
+drwxr-xr-x  15 ftp      ftp          4096 Jun 13 01:42 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:58 css
+drwxr-xr-x   2 ftp      ftp         12288 Jun 13 01:05 flags
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:05 font
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:07 img
+drwxr-xr-x  12 ftp      ftp          4096 Jun 13 01:10 js
+-rw-r--r--   1 ftp      ftp        156545 Jan 23  2019 languages.json
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:10 lib
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:10 xsd

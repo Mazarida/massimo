@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  18 ftp      ftp         12288 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp          2887 Jul 25 14:01 entry.php
+-rw-r--r--   1 ftp      ftp          8462 Jul 25 14:01 mo.php
+-rw-r--r--   1 ftp      ftp          6941 Jul 25 14:01 plural-forms.php
+-rw-r--r--   1 ftp      ftp         13492 Jul 25 14:01 po.php
+-rw-r--r--   1 ftp      ftp          5948 Jul 25 14:01 streams.php
+-rw-r--r--   1 ftp      ftp          8857 Jul 25 14:01 translations.php

@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:36 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:36 ..
+-rw-r--r--   1 ftp      ftp           442 Jan 23  2019 class-wpml-media-settings-factory.php
+-rw-r--r--   1 ftp      ftp           881 Jan 23  2019 class-wpml-media-settings.php

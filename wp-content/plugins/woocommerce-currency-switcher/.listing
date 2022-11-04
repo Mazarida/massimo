@@ -1,0 +1,11 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 02:08 .
+drwxr-xr-x  16 ftp      ftp          4096 Sep 16 10:02 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 02:05 classes
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:05 css
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:06 img
+-rw-r--r--   1 ftp      ftp          3775 Jan 24  2019 index.php
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 02:07 js
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:08 languages
+-rw-r--r--   1 ftp      ftp             0 Jan 24  2019 log.txt
+-rw-r--r--   1 ftp      ftp         13851 Jan 24  2019 readme.txt
+drwxr-xr-x   6 ftp      ftp          4096 Jun 13 02:09 views

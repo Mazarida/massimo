@@ -1,0 +1,11 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:52 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:52 nav-menu-translation
+-rw-r--r--   1 ftp      ftp          3303 Jan 23  2019 wpml-frontend-tax-filters.class.php
+-rw-r--r--   1 ftp      ftp          3020 Jan 23  2019 wpml-term-filters.class.php
+-rw-r--r--   1 ftp      ftp          4518 Jan 23  2019 wpml-term-hierarchy-duplication.class.php
+-rw-r--r--   1 ftp      ftp          1079 Jan 23  2019 wpml-term-hierarchy-sync.class.php
+-rw-r--r--   1 ftp      ftp          3926 Jan 23  2019 wpml-term-translation.class.php
+-rw-r--r--   1 ftp      ftp         26404 Jan 23  2019 wpml-term-translations.class.php
+-rw-r--r--   1 ftp      ftp          3433 Jan 23  2019 wpml-term-translation-utils.class.php
+-rw-r--r--   1 ftp      ftp          8578 Jan 23  2019 wpml-update-term-action.class.php

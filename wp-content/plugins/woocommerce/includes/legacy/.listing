@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  22 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         24844 Jul 25 14:01 abstract-wc-legacy-order.php
+-rw-r--r--   1 ftp      ftp          1910 Jul 25 14:01 abstract-wc-legacy-payment-token.php
+-rw-r--r--   1 ftp      ftp         21566 Jul 25 14:01 abstract-wc-legacy-product.php
+-rw-r--r--   1 ftp      ftp          8383 Jul 25 14:01 class-wc-legacy-api.php
+-rw-r--r--   1 ftp      ftp         11589 Jul 25 14:01 class-wc-legacy-cart.php
+-rw-r--r--   1 ftp      ftp          5036 Jul 25 14:01 class-wc-legacy-coupon.php
+-rw-r--r--   1 ftp      ftp          7091 Jul 25 14:01 class-wc-legacy-customer.php
+-rw-r--r--   1 ftp      ftp          1607 Jul 25 14:01 class-wc-legacy-shipping-zone.php
+-rw-r--r--   1 ftp      ftp          2568 Jul 25 14:01 class-wc-legacy-webhook.php

@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:30 ..
+-rw-r--r--   1 ftp      ftp           789 Jan 23  2019 class-wpml-api-hook-copy-post-to-language.php
+-rw-r--r--   1 ftp      ftp          1463 Jan 23  2019 class-wpml-api-hook-links.php
+-rw-r--r--   1 ftp      ftp          1263 Jan 23  2019 class-wpml-api-hook-permalink.php
+-rw-r--r--   1 ftp      ftp          1352 Jan 23  2019 class-wpml-api-hooks-factory.php
+-rw-r--r--   1 ftp      ftp           791 Jan 23  2019 class-wpml-api-hook-sync-custom-fields.php
+-rw-r--r--   1 ftp      ftp          1950 Jan 23  2019 class-wpml-api-hook-translation-element.php
+-rw-r--r--   1 ftp      ftp          1420 Jan 23  2019 class-wpml-api-hook-translation-mode.php

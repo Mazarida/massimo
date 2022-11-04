@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp           396 Jan 23  2019 class-wpml-translate-link-targets-hooks.php
+-rw-r--r--   1 ftp      ftp          1284 Jan 23  2019 class-wpml-translation-management-filters-and-actions.php

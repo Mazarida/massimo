@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:53 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+-rw-r--r--   1 ftp      ftp         76942 Jan 23  2019 translation-management.class.php
+-rw-r--r--   1 ftp      ftp          3025 Jan 23  2019 wpml-jobs-data-to-send.php
+-rw-r--r--   1 ftp      ftp           433 Jan 23  2019 wpml-translator.class.php

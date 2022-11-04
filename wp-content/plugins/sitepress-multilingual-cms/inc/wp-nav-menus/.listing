@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:54 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+-rw-r--r--   1 ftp      ftp         33554 Jan 23  2019 class-wpml-nav-menu.php
+-rw-r--r--   1 ftp      ftp         13764 Jan 23  2019 menu-item-sync.class.php
+-rw-r--r--   1 ftp      ftp         21221 Jan 23  2019 menus-sync.php
+-rw-r--r--   1 ftp      ftp         21663 Jan 23  2019 wpml-menu-sync-functionality.class.php

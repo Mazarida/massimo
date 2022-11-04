@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:05 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 02:05 ..
+-rw-r--r--   1 ftp      ftp          2268 Jan 24  2019 fixed_amount.php
+-rw-r--r--   1 ftp      ftp          4558 Jan 24  2019 fixed_coupon.php
+-rw-r--r--   1 ftp      ftp          8969 Jan 24  2019 fixed_price.php
+-rw-r--r--   1 ftp      ftp          3077 Jan 24  2019 fixed_shipping_free.php
+-rw-r--r--   1 ftp      ftp          2075 Jan 24  2019 fixed_shipping.php
+-rw-r--r--   1 ftp      ftp          8710 Jan 24  2019 fixed_user_role.php

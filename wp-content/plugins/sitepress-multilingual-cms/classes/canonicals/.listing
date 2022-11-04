@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:30 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          2401 Jan 23  2019 class-wpml-canonicals-hooks.php
+-rw-r--r--   1 ftp      ftp          5682 Jan 23  2019 class-wpml-canonicals.php

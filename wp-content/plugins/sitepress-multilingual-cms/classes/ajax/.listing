@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:30 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp           305 Jan 23  2019 class-wpml-ajax-factory.php
+-rw-r--r--   1 ftp      ftp           865 Jan 23  2019 class-wpml-ajax-response.php
+-rw-r--r--   1 ftp      ftp           670 Jan 23  2019 class-wpml-ajax-route.php
+-rw-r--r--   1 ftp      ftp            62 Jan 23  2019 interface-wpml-ajax-action.php

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 00:49 ..
+-rw-r--r--   1 ftp      ftp          2877 Jan 23  2019 class-wpml-xml-config-log-notice.php
+-rw-r--r--   1 ftp      ftp           636 Jan 23  2019 class-wpml-xml-config-log-ui-factory.php
+-rw-r--r--   1 ftp      ftp          3020 Jan 23  2019 class-wpml-xml-config-log-ui.php

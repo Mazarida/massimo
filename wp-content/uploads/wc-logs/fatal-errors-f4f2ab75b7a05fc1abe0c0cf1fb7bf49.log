@@ -1,0 +1,4 @@
+2019-06-20T09:37:01+00:00 CRITICAL Call to undefined method WC_Product_Attribute::is_visible()
+
+2019-06-20T09:37:31+00:00 CRITICAL Cannot access protected property WC_Product_Attribute::$data
+

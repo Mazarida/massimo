@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:51 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+-rw-r--r--   1 ftp      ftp          8950 Jan 23  2019 wpml-name-query-filter.class.php
+-rw-r--r--   1 ftp      ftp          2069 Jan 23  2019 wpml-name-query-filter-translated.class.php
+-rw-r--r--   1 ftp      ftp           773 Jan 23  2019 wpml-name-query-filter-untranslated.class.php
+-rw-r--r--   1 ftp      ftp          1706 Jan 23  2019 wpml-pagename-query-filter.class.php
+-rw-r--r--   1 ftp      ftp          1616 Jan 23  2019 wpml-slug-resolution.class.php

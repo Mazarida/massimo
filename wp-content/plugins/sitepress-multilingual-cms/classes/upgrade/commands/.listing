@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:45 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:45 ..
+-rw-r--r--   1 ftp      ftp           906 Jan 23  2019 class-wpml-add-uuid-column-to-translation-status.php
+-rw-r--r--   1 ftp      ftp           905 Jan 23  2019 class-wpml-upgrade-add-word-count-column-to-strings.php
+-rw-r--r--   1 ftp      ftp          4173 Jan 23  2019 class-wpml-upgrade-display-mode-for-posts.php
+-rw-r--r--   1 ftp      ftp          1228 Jan 23  2019 class-wpml-upgrade-element-type-length-and-collation.php
+-rw-r--r--   1 ftp      ftp           714 Jan 23  2019 class-wpml-upgrade-fix-non-admin-cap.php
+-rw-r--r--   1 ftp      ftp         11287 Jan 23  2019 class-wpml-upgrade-media-duplication-in-core.php
+-rw-r--r--   1 ftp      ftp           496 Jan 23  2019 class-wpml-upgrade-media-without-language.php
+-rw-r--r--   1 ftp      ftp           477 Jan 23  2019 class-wpml-upgrade-remove-translation-services-transient.php
+-rw-r--r--   1 ftp      ftp          1095 Jan 23  2019 class-wpml-upgrade-table-translate-job-for-3-9-0.php
+-rw-r--r--   1 ftp      ftp          1068 Jan 23  2019 wpml-upgrade-admin-users-languages.php
+-rw-r--r--   1 ftp      ftp          1287 Jan 23  2019 wpml-upgrade-chinese-flags.php

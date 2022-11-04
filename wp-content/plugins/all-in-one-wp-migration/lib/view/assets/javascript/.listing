@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   6 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         35230 Jul 25 14:01 backups.min.js
+-rw-r--r--   1 ftp      ftp         33995 Jul 25 14:01 export.min.js
+-rw-r--r--   1 ftp      ftp          9885 Jul 25 14:01 feedback.min.js
+-rw-r--r--   1 ftp      ftp        101734 Jul 25 14:01 import.min.js
+-rw-r--r--   1 ftp      ftp          8986 Jul 25 14:01 report.min.js
+-rw-r--r--   1 ftp      ftp          5836 Jul 25 14:01 updater.min.js
+-rw-r--r--   1 ftp      ftp          8077 Jul 25 14:01 util.min.js

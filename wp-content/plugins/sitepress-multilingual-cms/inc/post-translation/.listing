@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:51 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+-rw-r--r--   1 ftp      ftp          9161 Jan 23  2019 wpml-admin-post-actions.class.php
+-rw-r--r--   1 ftp      ftp          3058 Jan 23  2019 wpml-comment-duplication.class.php
+-rw-r--r--   1 ftp      ftp           644 Jan 23  2019 wpml-create-post-helper.class.php
+-rw-r--r--   1 ftp      ftp          1817 Jan 23  2019 wpml-frontend-post-actions.class.php
+-rw-r--r--   1 ftp      ftp         15142 Jan 23  2019 wpml-post-duplication.class.php
+-rw-r--r--   1 ftp      ftp           463 Jan 23  2019 wpml-post-hierarchy-sync.class.php
+-rw-r--r--   1 ftp      ftp         12363 Jan 23  2019 wpml-post-synchronization.class.php
+-rw-r--r--   1 ftp      ftp         15496 Jan 23  2019 wpml-post-translation.class.php
+-rw-r--r--   1 ftp      ftp          8526 Jan 23  2019 wpml-root-page-actions.class.php
+-rw-r--r--   1 ftp      ftp          2143 Jan 23  2019 wpml-wordpress-actions.class.php

@@ -1,0 +1,10 @@
+drwxr-xr-x  10 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  22 ftp      ftp          4096 Jun 12 19:33 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 19:33 flat-rate
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 free-shipping
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 19:33 legacy-flat-rate
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 legacy-free-shipping
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 legacy-international-delivery
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 legacy-local-delivery
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 legacy-local-pickup
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 local-pickup

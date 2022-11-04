@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:33 .
+drwxr-xr-x   6 ftp      ftp          4096 Jun 13 01:34 ..
+-rw-r--r--   1 ftp      ftp          1125 Jan 23  2019 Constant.php
+-rw-r--r--   1 ftp      ftp          2116 Jan 23  2019 Defined.php
+-rw-r--r--   1 ftp      ftp           743 Jan 23  2019 Divisibleby.php
+-rw-r--r--   1 ftp      ftp           631 Jan 23  2019 Even.php
+-rw-r--r--   1 ftp      ftp           613 Jan 23  2019 Null.php
+-rw-r--r--   1 ftp      ftp           628 Jan 23  2019 Odd.php
+-rw-r--r--   1 ftp      ftp           685 Jan 23  2019 Sameas.php

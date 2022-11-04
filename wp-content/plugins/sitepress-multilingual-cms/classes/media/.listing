@@ -1,0 +1,11 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:36 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp           357 Jan 23  2019 class-wpml-attachment-action-factory.php
+-rw-r--r--   1 ftp      ftp          4547 Jan 23  2019 class-wpml-attachment-action.php
+-rw-r--r--   1 ftp      ftp            56 Jan 23  2019 class-wpml-media-exception.php
+-rw-r--r--   1 ftp      ftp          5532 Jan 23  2019 class-wpml-model-attachments.php
+-rw-r--r--   1 ftp      ftp          1486 Jan 23  2019 class-wpml-set-attachments-language-factory.php
+-rw-r--r--   1 ftp      ftp          1768 Jan 23  2019 class-wpml-set-attachments-language.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:36 duplication
+-rw-r--r--   1 ftp      ftp          5489 Jan 23  2019 management.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:36 settings

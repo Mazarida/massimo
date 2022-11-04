@@ -1,0 +1,10 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jun 12 22:58 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 12 22:55 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jun 12 22:55 dist
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 22:56 includes
+-rw-r--r--   1 ftp      ftp          3121 Jan 25  2019 installer.php
+-rw-r--r--   1 ftp      ftp          5159 Jan 25  2019 loader.php
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 22:57 locale
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 22:57 res
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 22:58 src
+drwxr-xr-x   4 ftp      ftp          4096 Jun 12 22:58 templates

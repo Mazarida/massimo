@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:35 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:35 ..
+-rw-r--r--   1 ftp      ftp           530 Jan 23  2019 class-wpml-ls-footer-slot.php
+-rw-r--r--   1 ftp      ftp           843 Jan 23  2019 class-wpml-ls-menu-slot.php
+-rw-r--r--   1 ftp      ftp           838 Jan 23  2019 class-wpml-ls-post-translations-slot.php
+-rw-r--r--   1 ftp      ftp           622 Jan 23  2019 class-wpml-ls-shortcode-actions-slot.php
+-rw-r--r--   1 ftp      ftp           673 Jan 23  2019 class-wpml-ls-sidebar-slot.php
+-rw-r--r--   1 ftp      ftp          2164 Jan 23  2019 class-wpml-ls-slot-factory.php
+-rw-r--r--   1 ftp      ftp          5587 Jan 23  2019 class-wpml-ls-slot.php

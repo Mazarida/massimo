@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:44 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          4666 Jan 23  2019 class-wpml-debug-information.php
+-rw-r--r--   1 ftp      ftp          6353 Jan 23  2019 class-wpml-fix-type-assignments.php
+-rw-r--r--   1 ftp      ftp           679 Jan 23  2019 class-wpml-troubleshoot-action.php
+-rw-r--r--   1 ftp      ftp          2575 Jan 23  2019 class-wpml-troubleshoot-sync-posts-taxonomies.php

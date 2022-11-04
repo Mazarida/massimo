@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 23:07 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 12 23:08 ..
+-rw-r--r--   1 ftp      ftp           731 Jan 25  2019 attributes.twig
+-rw-r--r--   1 ftp      ftp            61 Jan 25  2019 footer.twig
+-rw-r--r--   1 ftp      ftp           842 Jan 25  2019 header.twig
+-rw-r--r--   1 ftp      ftp           559 Jan 25  2019 introduction.twig
+-rw-r--r--   1 ftp      ftp           436 Jan 25  2019 multi-currency.twig
+-rw-r--r--   1 ftp      ftp           538 Jan 25  2019 notice.twig
+-rw-r--r--   1 ftp      ftp           360 Jan 25  2019 ready.twig
+-rw-r--r--   1 ftp      ftp           281 Jan 25  2019 store-pages.twig
+-rw-r--r--   1 ftp      ftp           849 Jan 25  2019 translation-options.twig

@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:40 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          3862 Jan 23  2019 class-wpml-sync-term-meta-action.php
+-rw-r--r--   1 ftp      ftp          5174 Jan 23  2019 class-wpml-taxonomy-translation-help-notice.php
+-rw-r--r--   1 ftp      ftp         14748 Jan 23  2019 class-wpml-term-actions.php
+-rw-r--r--   1 ftp      ftp          9288 Jan 23  2019 class-wpml-term-language-synchronization.php
+-rw-r--r--   1 ftp      ftp           788 Jan 23  2019 class-wpml-update-term-count.php

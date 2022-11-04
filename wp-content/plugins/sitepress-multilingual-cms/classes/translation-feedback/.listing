@@ -1,0 +1,14 @@
+drwxr-xr-x  13 ftp      ftp          4096 Jun 13 00:43 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:41 bulk-actions
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:41 exceptions
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:41 factories
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:41 hooks
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 00:42 model
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:42 notices
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:42 scripts
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 settings
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 styles
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 utils
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 views
+-rw-r--r--   1 ftp      ftp          1458 Jan 23  2019 wpml-tf-module.php

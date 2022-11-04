@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         15091 Jul 25 14:01 custom-html-widgets.js
+-rw-r--r--   1 ftp      ftp          5578 Jul 25 14:01 custom-html-widgets.min.js
+-rw-r--r--   1 ftp      ftp          3871 Jul 25 14:01 media-audio-widget.js
+-rw-r--r--   1 ftp      ftp          1440 Jul 25 14:01 media-audio-widget.min.js
+-rw-r--r--   1 ftp      ftp          9951 Jul 25 14:01 media-gallery-widget.js
+-rw-r--r--   1 ftp      ftp          3779 Jul 25 14:01 media-gallery-widget.min.js
+-rw-r--r--   1 ftp      ftp          5212 Jul 25 14:01 media-image-widget.js
+-rw-r--r--   1 ftp      ftp          2023 Jul 25 14:01 media-image-widget.min.js
+-rw-r--r--   1 ftp      ftp          6594 Jul 25 14:01 media-video-widget.js
+-rw-r--r--   1 ftp      ftp          2705 Jul 25 14:01 media-video-widget.min.js
+-rw-r--r--   1 ftp      ftp         41846 Jul 25 14:01 media-widgets.js
+-rw-r--r--   1 ftp      ftp         14422 Jul 25 14:01 media-widgets.min.js
+-rw-r--r--   1 ftp      ftp         17766 Jul 25 14:01 text-widgets.js
+-rw-r--r--   1 ftp      ftp          5924 Jul 25 14:01 text-widgets.min.js

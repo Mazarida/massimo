@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 20:01 .
+drwxr-xr-x  16 ftp      ftp          4096 Sep 16 10:02 ..
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 20:01 assets
+-rw-r--r--   1 ftp      ftp         10423 Jun 12 20:01 changelog.txt
+drwxr-xr-x   6 ftp      ftp          4096 Jun 12 20:01 includes
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 20:01 languages
+-rw-r--r--   1 ftp      ftp          9562 Jun 12 20:01 readme.txt
+-rw-r--r--   1 ftp      ftp          1512 Jun 12 20:01 woocommerce-gateway-paypal-express-checkout.php

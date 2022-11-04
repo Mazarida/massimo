@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:25 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:25 ..
+-rw-r--r--   1 ftp      ftp         16940 Jan 23  2019 admin.js
+-rw-r--r--   1 ftp      ftp          8265 Jan 23  2019 channels.js
+-rw-r--r--   1 ftp      ftp          5577 Jan 23  2019 iframeResizer.min.js
+-rw-r--r--   1 ftp      ftp          3402 Jan 23  2019 installer_theme_install.js
+-rw-r--r--   1 ftp      ftp           764 Jan 23  2019 save-components-setting.js
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:25 tooltip

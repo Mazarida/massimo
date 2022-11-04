@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  12 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         16189 Jul 25 14:01 handlers.js
+-rw-r--r--   1 ftp      ftp         10551 Jul 25 14:01 handlers.min.js
+-rw-r--r--   1 ftp      ftp         17987 Jul 25 14:01 license.txt
+-rw-r--r--   1 ftp      ftp        254084 Jul 25 14:01 moxie.js
+-rw-r--r--   1 ftp      ftp         89142 Jul 25 14:01 moxie.min.js
+-rw-r--r--   1 ftp      ftp         60314 Jul 25 14:01 plupload.js
+-rw-r--r--   1 ftp      ftp         15742 Jul 25 14:01 plupload.min.js
+-rw-r--r--   1 ftp      ftp         12726 Jul 25 14:01 wp-plupload.js
+-rw-r--r--   1 ftp      ftp          4920 Jul 25 14:01 wp-plupload.min.js

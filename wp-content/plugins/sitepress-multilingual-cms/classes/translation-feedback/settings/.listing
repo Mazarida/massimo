@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 .
+drwxr-xr-x  13 ftp      ftp          4096 Jun 13 00:43 ..
+-rw-r--r--   1 ftp      ftp           269 Jan 23  2019 iwpml-tf-settings.php
+-rw-r--r--   1 ftp      ftp           281 Jan 23  2019 wpml-tf-settings-handler.php
+-rw-r--r--   1 ftp      ftp          3989 Jan 23  2019 wpml-tf-settings.php
+-rw-r--r--   1 ftp      ftp          1620 Jan 23  2019 wpml-tf-settings-read.php
+-rw-r--r--   1 ftp      ftp           376 Jan 23  2019 wpml-tf-settings-write.php

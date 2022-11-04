@@ -1,0 +1,17 @@
+drwxr-xr-x  14 ftp      ftp          4096 Jun 13 02:13 .
+drwxr-xr-x  10 ftp      ftp          4096 Jun 13 02:33 ..
+-rw-r--r--   1 ftp      ftp           856 Jan 25  2019 class-wcml-admin-cookie.php
+-rw-r--r--   1 ftp      ftp           447 Jan 25  2019 class-wcml-tracking-link.php
+-rw-r--r--   1 ftp      ftp         14045 Jan 25  2019 class-woocommerce-wpml.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:11 currencies
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:12 media
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:12 multi-currency
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:12 order-property-filter
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:12 pointers
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:12 privacy
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 02:12 rest-api-support
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:13 shortcodes
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:13 taxonomy-translation
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:13 url-filters
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:13 urls
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:13 wcml-setup

@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:42 .
+drwxr-xr-x  13 ftp      ftp          4096 Jun 13 00:43 ..
+-rw-r--r--   1 ftp      ftp          2174 Jan 23  2019 wpml-tf-backend-notices.php
+-rw-r--r--   1 ftp      ftp          2060 Jan 23  2019 wpml-tf-promote-notices.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:23 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 22:41 ..
+-rw-r--r--   1 ftp      ftp         49031 Jan 25  2019 autoload_classmap.php
+-rw-r--r--   1 ftp      ftp           278 Jan 25  2019 autoload_namespaces.php
+-rw-r--r--   1 ftp      ftp           243 Jan 25  2019 autoload_psr4.php
+-rw-r--r--   1 ftp      ftp          1180 Jan 25  2019 autoload_real_52.php
+-rw-r--r--   1 ftp      ftp          1762 Jan 25  2019 autoload_real.php
+-rw-r--r--   1 ftp      ftp         55607 Jan 25  2019 autoload_static.php
+-rw-r--r--   1 ftp      ftp          6245 Jan 25  2019 ClassLoader52.php
+-rw-r--r--   1 ftp      ftp         13422 Jan 25  2019 ClassLoader.php
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 22:36 installers
+-rw-r--r--   1 ftp      ftp          1070 Jan 25  2019 LICENSE

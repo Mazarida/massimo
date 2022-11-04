@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:41 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 01:42 ..
+-rw-r--r--   1 ftp      ftp           214 Jan 23  2019 Whip_EmptyProperty.php
+-rw-r--r--   1 ftp      ftp           477 Jan 23  2019 Whip_InvalidOperatorType.php
+-rw-r--r--   1 ftp      ftp           408 Jan 23  2019 Whip_InvalidType.php
+-rw-r--r--   1 ftp      ftp           439 Jan 23  2019 Whip_InvalidVersionComparisonString.php

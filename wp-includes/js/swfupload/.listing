@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  12 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp          1460 Jul 25 14:01 handlers.js
+-rw-r--r--   1 ftp      ftp          1276 Jul 25 14:01 handlers.min.js
+-rw-r--r--   1 ftp      ftp          1540 Jul 25 14:01 license.txt
+-rw-r--r--   1 ftp      ftp          4439 Jul 25 14:01 swfupload.js

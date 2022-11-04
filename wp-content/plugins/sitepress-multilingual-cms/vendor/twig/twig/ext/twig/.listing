@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:29 ..
+-rw-r--r--   1 ftp      ftp           221 Jan 23  2019 config.m4
+-rw-r--r--   1 ftp      ftp           149 Jan 23  2019 config.w32
+-rw-r--r--   1 ftp      ftp          1205 Jan 23  2019 php_twig.h
+-rw-r--r--   1 ftp      ftp         35536 Jan 23  2019 twig.c

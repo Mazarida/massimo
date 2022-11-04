@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:43 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          1386 Jan 23  2019 class-wpml-element-type-translation.php
+-rw-r--r--   1 ftp      ftp           769 Jan 23  2019 class-wpml-menu-element.php
+-rw-r--r--   1 ftp      ftp          1382 Jan 23  2019 class-wpml-post-element.php
+-rw-r--r--   1 ftp      ftp          2231 Jan 23  2019 class-wpml-term-element.php
+-rw-r--r--   1 ftp      ftp          1424 Jan 23  2019 class-wpml-translation-element-factory.php
+-rw-r--r--   1 ftp      ftp          5214 Jan 23  2019 class-wpml-translation-element.php
+-rw-r--r--   1 ftp      ftp         10429 Jan 23  2019 class-wpml-translations.php
+-rw-r--r--   1 ftp      ftp            81 Jan 23  2019 interface-wpml-duplicable-element.php

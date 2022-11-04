@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  18 ftp      ftp         12288 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp          2112 Jul 25 14:01 comments.php
+-rw-r--r--   1 ftp      ftp           970 Jul 25 14:01 embed-404.php
+-rw-r--r--   1 ftp      ftp          3446 Jul 25 14:01 embed-content.php
+-rw-r--r--   1 ftp      ftp           479 Jul 25 14:01 embed.php
+-rw-r--r--   1 ftp      ftp           438 Jul 25 14:01 footer-embed.php
+-rw-r--r--   1 ftp      ftp          1059 Jul 25 14:01 footer.php
+-rw-r--r--   1 ftp      ftp           704 Jul 25 14:01 header-embed.php
+-rw-r--r--   1 ftp      ftp          1893 Jul 25 14:01 header.php
+-rw-r--r--   1 ftp      ftp          4060 Jul 25 14:01 sidebar.php

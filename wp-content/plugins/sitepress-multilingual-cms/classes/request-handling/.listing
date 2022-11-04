@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:39 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          1591 Jan 23  2019 class-wpml-frontend-redirection.php
+-rw-r--r--   1 ftp      ftp           390 Jan 23  2019 class-wpml-frontend-request.php
+-rw-r--r--   1 ftp      ftp          2427 Jan 23  2019 class-wpml-language-domain-validation.php
+-rw-r--r--   1 ftp      ftp          7816 Jan 23  2019 class-wpml-language-per-domain-sso.php
+-rw-r--r--   1 ftp      ftp          4918 Jan 23  2019 class-wpml-language-resolution.php
+-rw-r--r--   1 ftp      ftp          1161 Jan 23  2019 class-wpml-super-globals-validation.php

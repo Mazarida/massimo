@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:37 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp           486 Jan 23  2019 class-wpml-post-edit-terms-hooks-factory.php
+-rw-r--r--   1 ftp      ftp          1747 Jan 23  2019 class-wpml-post-edit-terms-hooks.php
+-rw-r--r--   1 ftp      ftp          6051 Jan 23  2019 class-wpml-post-status.php
+-rw-r--r--   1 ftp      ftp          2975 Jan 23  2019 class-wpml-pre-option-page.php

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 23:06 .
+drwxr-xr-x   6 ftp      ftp          4096 Jun 12 23:06 ..
+-rw-r--r--   1 ftp      ftp            67 Jan 25  2019 config.json
+-rw-r--r--   1 ftp      ftp           621 Jan 25  2019 style.css
+-rw-r--r--   1 ftp      ftp           287 Jan 25  2019 template.twig

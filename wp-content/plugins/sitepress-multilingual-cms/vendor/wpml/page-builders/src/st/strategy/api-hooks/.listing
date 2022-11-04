@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:38 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 01:38 ..
+-rw-r--r--   1 ftp      ftp          1390 Jan 23  2019 class-wpml-pb-api-hooks-strategy.php
+-rw-r--r--   1 ftp      ftp           508 Jan 23  2019 class-wpml-pb-update-api-hooks-in-content.php

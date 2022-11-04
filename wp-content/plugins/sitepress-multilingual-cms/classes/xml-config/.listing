@@ -1,0 +1,10 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 00:49 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          1478 Jan 23  2019 class-wpml-config-display-as-translated.php
+-rw-r--r--   1 ftp      ftp         14444 Jan 23  2019 class-wpml-config.php
+-rw-r--r--   1 ftp      ftp          1973 Jan 23  2019 class-wpml-config-update-log.php
+-rw-r--r--   1 ftp      ftp           307 Jan 23  2019 class-wpml-custom-xml.php
+-rw-r--r--   1 ftp      ftp          1211 Jan 23  2019 class-wpml-xml-config-validate.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 log
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 read
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 transform

@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   6 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         16591 Jul 25 14:01 backups.min.css
+-rw-r--r--   1 ftp      ftp         16586 Jul 25 14:01 backups.min.rtl.css
+-rw-r--r--   1 ftp      ftp         12943 Jul 25 14:01 common.min.css
+-rw-r--r--   1 ftp      ftp         17095 Jul 25 14:01 export.min.css
+-rw-r--r--   1 ftp      ftp         17096 Jul 25 14:01 export.min.rtl.css
+-rw-r--r--   1 ftp      ftp         16614 Jul 25 14:01 import.min.css
+-rw-r--r--   1 ftp      ftp         16614 Jul 25 14:01 import.min.rtl.css
+-rw-r--r--   1 ftp      ftp         15875 Jul 25 14:01 servmask.min.css
+-rw-r--r--   1 ftp      ftp         15872 Jul 25 14:01 servmask.min.rtl.css
+-rw-r--r--   1 ftp      ftp          4904 Jul 25 14:01 updater.min.css
+-rw-r--r--   1 ftp      ftp          4915 Jul 25 14:01 updater.min.rtl.css

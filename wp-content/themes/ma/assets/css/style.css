@@ -1,0 +1,2956 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Gals Light;
+  src: url("../fonts/Gals-Light.eot") format("eot"), url("../fonts/Gals-Light.woff") format("woff"), url("../fonts/Gals-Light.woff2") format("woff2"), url("../fonts/Gals-Light.ttf") format("ttf");
+}
+.main_page {
+  background-position: left top, right top;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 50% auto, 50% auto;
+}
+.main_page a {
+  text-decoration: none;
+  color: inherit;
+}
+.main_page__header {
+  display: flex;
+  justify-content: space-between;
+  height: 4.68747vw;
+  align-items: center;
+  padding: 0 2.812482vw;
+  background: rgba(116, 100, 101, 0.5);
+}
+.main_page__header .main_page__button {
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  text-transform: uppercase;
+  letter-spacing: 0.0416664vw;
+}
+.main_page__header .main_page__button span {
+  margin: 0 0.8854166667vw;
+}
+.main_page__look_block {
+  height: 51.822585vw;
+  display: flex;
+}
+
+.main_page__look_block .item_block {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_page__look_block .item_block p {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 1.770822vw;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 0.17656137vw;
+  line-height: 2.499984vw;
+}
+
+.menu {
+  background: #2e1b1e url("../img/background-menu.png") no-repeat -31% 62%;
+  padding: 0.15625vw 1.8229166667vw 0vw 2.8645833333vw;
+  background-size: 63%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 10;
+  display: none;
+}
+.menu__header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1vw;
+  padding-right: 0.9vw;
+  padding-top: 1vw;
+}
+.menu__header .menu__header__button {
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 1.1244791667vw;
+  text-transform: uppercase;
+  /* Text style for "CLOSE" */
+  letter-spacing: 0.0416666667vw;
+}
+.menu__header .menu__header__button span {
+  margin: 0 0.8854166667vw;
+}
+.menu__links {
+  margin-top: 9.1666666667vw;
+  padding: 0 0 0 19.8958333333vw;
+  margin-bottom: 15vw;
+}
+.menu__links a {
+  text-decoration: none;
+}
+.menu__links a:link {
+  color: #ffffff;
+}
+.menu__links a:alink {
+  color: #ffffff;
+}
+.menu__links a:vlink {
+  color: #ffffff;
+}
+.menu__links a:visited {
+  color: #ffffff;
+}
+.menu__links a:active {
+  color: #ffffff;
+}
+.menu__links a:hover {
+  color: #ffffff;
+}
+.menu__links .line p {
+  display: inline-block;
+  color: #ffffff;
+  font-family: "Minion Pro";
+  font-size: 1.875vw;
+  font-weight: bold;
+  line-height: 3.4510416667vw;
+  text-transform: uppercase;
+  /* Text style for "COLLECTION" */
+  letter-spacing: 0.0625vw;
+}
+.menu__links .line:nth-child(1) {
+  margin-left: 0.9895833333vw;
+  margin-bottom: 4.84375vw;
+}
+.menu__links .line:nth-child(1) p:nth-child(1) {
+  margin-right: 12.6041666667vw;
+}
+.menu__links .line:nth-child(1) p:nth-child(2) {
+  margin-right: 8.9583333333vw;
+}
+.menu__links .line:nth-child(2) {
+  margin-bottom: 5.9375vw;
+}
+.menu__links .line:nth-child(2) p:nth-child(1) {
+  margin-right: 11.1979166667vw;
+}
+.menu__links .line:nth-child(2) p:nth-child(2) {
+  margin-right: 9.2708333333vw;
+}
+.menu__links .line:nth-child(3) {
+  margin-left: 10.7291666667vw;
+}
+.menu__links .line:nth-child(3) p:nth-child(1) {
+  margin-right: 14.6875vw;
+}
+.menu .footer {
+  padding: 0 0.625vw 3.125vw;
+}
+.menu .footer__form label {
+  margin-bottom: 0.5208333333vw;
+  color: #ffffff;
+  display: block;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  text-transform: uppercase;
+  /* Text style for "NEWSLETTER" */
+  letter-spacing: 0.0416666667vw;
+}
+.menu .footer__form input {
+  width: 14.7916666667vw;
+  height: 1.0416666667vw;
+  margin-bottom: 1.7708333333vw;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  text-transform: uppercase;
+  /* Text style for "NEWSLETTER" */
+  letter-spacing: 0.078125vw;
+  background: none;
+  border: none;
+  border-bottom: 0.1041666667vw solid white;
+}
+.menu .footer__form div {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  text-transform: uppercase;
+  /* Text style for "2019 © MAS" */
+  letter-spacing: 0.0416666667vw;
+}
+.menu .footer__form div p span {
+  margin: 0 0.0520833333vw;
+}
+.menu img {
+  position: fixed;
+  bottom: 2.5vw;
+  width: 22vw;
+  left: 50%;
+  transform: translateX(-10.2083333333vw);
+  pointer-events: none;
+}
+
+.page-r {
+  background: #f5f2ef;
+  padding-top: 10.7291666667vw;
+  padding-bottom: 3.3854166667vw;
+}
+
+.page-r .page__first_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 6.1979166667vw 0 5.4166666667vw;
+  margin-bottom: 11.875vw;
+}
+.page-r .page__first_block p {
+  padding: 13.3333333333vw 0vw 0vw 7.65625vw;
+  text-align: justify;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  letter-spacing: 0.0729166667vw;
+}
+.page-r .page__first_block img {
+  margin-bottom: 0.9895833333vw;
+  width: 47.7vw;
+}
+.page-r .page__first_block .img_block p {
+  padding: 0;
+}
+.page-r .page__second_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0vw 5.6770833333vw 0vw 7.2916666667vw;
+  margin-bottom: 10.7291666667vw;
+}
+.page-r .page__second_block .video {
+  /* Style for "Layer 8" */
+  width: 48.125vw;
+  height: 27.0833333333vw;
+  margin-top: 12.8645833333vw;
+  position: relative;
+}
+.page-r .page__second_block .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.page-r .page__second_block img {
+  margin-bottom: 1.25vw;
+  width: 31.1vw;
+}
+.page-r .page__second_block .img_block p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  letter-spacing: 0.0729166667vw;
+}
+.page-r .page__third_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0vw 0vw 0vw 4.0625vw;
+  margin-bottom: 7.3958333333vw;
+}
+.page-r .page__third_block img {
+  margin-bottom: 0.9375vw;
+}
+.page-r .page__third_block img:nth-child(1) {
+  width: 31.2vw;
+}
+.page-r .page__third_block p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  /* Text style for "SS 20 , Mo" */
+  letter-spacing: 0.0416666667vw;
+}
+.page-r .page__third_block .right_img_block {
+  padding-top: 9.375vw;
+}
+.page-r .page__third_block .right_img_block img {
+  width: 46.7vw;
+}
+.page-r .page__fourth_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0vw 6.71875vw 0vw 8.75vw;
+}
+.page-r .page__fourth_block p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.625vw;
+  font-weight: bold;
+  line-height: 0.8432291667vw;
+  /* Text style for "Maestro" */
+  letter-spacing: 0.0416666667vw;
+}
+.page-r .page__fourth_block img {
+  margin-bottom: 0.8333333333vw;
+  width: 31.7vw;
+}
+.page-r .page__fourth_block .left_block .video {
+  /* Style for "Layer 7" */
+  width: 46.0416666667vw;
+  height: 25.4166666667vw;
+  margin-top: 10.8333333333vw;
+  margin-bottom: 1.0416666667vw;
+  position: relative;
+}
+.page-r .page__fourth_block .left_block .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.mobile_footer {
+  display: none;
+}
+
+.contact_page {
+  background: #f5f2ef;
+  padding-top: 8.072865vw;
+  padding-bottom: 8.906193vw;
+}
+.contact_page .adres {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 11.354094vw;
+  margin-bottom: 15.364485vw;
+}
+.contact_page .adres__map {
+  /* Style for "Layer 20" */
+  width: 44.895546vw;
+  height: 41.6664vw;
+  background: url("../img/contact-map.jpg") no-repeat;
+  background-size: 149%;
+}
+.contact_page .adres__street {
+  align-self: flex-start;
+  margin-top: 7.187454vw;
+}
+.contact_page .adres__street .shop:first-child {
+  margin-bottom: 7.135371vw;
+}
+.contact_page .adres__street .shop .title_shop {
+  color: #000000;
+  font-family: "Minion Pro";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "MASSIMO SF" */
+  letter-spacing: 0.08697861vw;
+  margin-bottom: 2.239569vw;
+}
+.contact_page .adres__street .shop .shop_adres {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  text-transform: uppercase;
+  /* Text style for "MASSIMO SF" */
+  letter-spacing: 0.0416664vw;
+  margin-bottom: 1.354158vw;
+}
+.contact_page .adres__street .shop button {
+  /* Style for "Rectangle" */
+  width: 7.81245vw;
+  height: 2.395818vw;
+  border: 0.052083vw solid #000001;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  text-transform: uppercase;
+  /* Text style for "SHOW ON MA" */
+  letter-spacing: 0.0416664vw;
+}
+.contact_page .second_block {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 10.208268vw;
+  margin-bottom: 5.781213vw;
+}
+.contact_page .second_block p {
+  /* Style for "Inspired b" */
+  width: 9.999936vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Inspired b" */
+  letter-spacing: 0.0416664vw;
+  margin-top: 8.645778vw;
+  margin-right: 8.072865vw;
+}
+.contact_page .second_block img {
+  /* Style for "Layer 22" */
+  width: 62.707932vw;
+}
+.contact_page .third_block {
+  padding-left: 41.926815vw;
+  margin-bottom: 12.49992vw;
+}
+.contact_page .third_block p {
+  width: 34.478946vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "The store" */
+  letter-spacing: 0.0416664vw;
+}
+.contact_page .fourth_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.contact_page .fourth_block img:first-child {
+  width: 56.77047vw;
+}
+.contact_page .fourth_block img:last-child {
+  margin-top: 2.291652vw;
+  width: 38.124756vw;
+}
+
+.outlet_page {
+  padding-top: 2.08332vw;
+  padding-bottom: 1.354158vw;
+  background: #f5f2ef;
+}
+.outlet_page__first_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0vw 9.270774vw 0 5.624964vw;
+  margin-bottom: 7.604118vw;
+}
+.outlet_page__first_block .look img {
+  width: 32.81229vw;
+  margin-bottom: 1.718739vw;
+}
+.outlet_page__first_block .look p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "SS 17 , Mo" */
+  letter-spacing: 0.0416664vw;
+}
+.outlet_page__first_block .look:first-child img {
+  margin-top: 6.77079vw;
+}
+.outlet_page__second_block {
+  padding-left: 24.218595vw;
+  margin-bottom: 3.541644vw;
+}
+.outlet_page__second_block img {
+  width: 63.593343vw;
+  margin-bottom: 1.718739vw;
+}
+.outlet_page__second_block p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "SS 18 , Mo" */
+  letter-spacing: 0.0416664vw;
+}
+.outlet_page__third_block {
+  padding: 0 2.031237vw 0 12.291588vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.outlet_page__third_block .look:last-child {
+  margin-top: 2.656233vw;
+}
+.outlet_page__third_block .look:last-child p {
+  margin-bottom: 1.56249vw;
+}
+.outlet_page__third_block img {
+  width: 32.81229vw;
+  margin-bottom: 1.56249vw;
+}
+.outlet_page__third_block p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "SS 18 , Mo" */
+  letter-spacing: 0.0416664vw;
+}
+
+.stories_page {
+  padding-top: 9.947853vw;
+  background: #f5f2ef;
+}
+.stories_page .first_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 8.229114vw 0 8.437446vw;
+  margin-bottom: 11.97909vw;
+}
+.stories_page .first_block .left_side .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Style for "Layer 19" */
+  width: 55.155897vw;
+  height: 36.822681vw;
+  background: url("../img/stories-first-block.jpg");
+  background-size: cover;
+  margin-bottom: 1.145826vw;
+}
+.stories_page .first_block .left_side .img p {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 1.770822vw;
+  font-weight: bold;
+  line-height: 1.67967675vw;
+  text-transform: uppercase;
+  /* Text style for "FASHION PA" */
+  letter-spacing: 0.07239537vw;
+  /* Text style for "CAMPAIGN 2" */
+  font-size: 1.145826vw;
+  letter-spacing: 0.04635387vw;
+}
+.stories_page .first_block .left_side .title_img {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover F" */
+  letter-spacing: 0.0416664vw;
+}
+.stories_page .first_block .right_side {
+  margin-top: 11.354094vw;
+}
+.stories_page .first_block .right_side p {
+  text-align: justify;
+  width: 21.510279vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Тщеславие" */
+  letter-spacing: 0.0416664vw;
+}
+.stories_page .first_block .right_side .title {
+  color: #000000;
+  font-family: "Minion Pro";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "SS 2020" */
+  letter-spacing: 0.08697861vw;
+  margin-bottom: 2.656233vw;
+}
+.stories_page .first_block .right_side .first_parag {
+  margin-bottom: 1.302075vw;
+}
+.stories_page .first_block .right_side .second_parag {
+  margin-bottom: 1.302075vw;
+}
+.stories_page .second_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 5.781213vw 0 5.624964vw;
+  margin-bottom: 4.427055vw;
+}
+.stories_page .second_block .left_side .img {
+  /* Style for "Layer 21" */
+  width: 33.33312vw;
+  height: 47.499696vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../img/stories-second-block-left.jpg");
+  background-size: cover;
+  margin-bottom: 1.145826vw;
+}
+.stories_page .second_block .left_side .img p {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 1.145826vw;
+  font-weight: bold;
+  line-height: 1.67967675vw;
+  text-transform: uppercase;
+  /* Text style for "MILANO" */
+  font-size: 1.770822vw;
+  letter-spacing: 0.07239537vw;
+  text-transform: uppercase;
+  /* Text style for "CAMPAIGN 2" */
+  letter-spacing: 0.04635387vw;
+}
+.stories_page .second_block .left_side p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover F" */
+  letter-spacing: 0.0416664vw;
+}
+.stories_page .second_block .right_side .title {
+  color: #000000;
+  font-family: "Minion Pro";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "SS 2020" */
+  letter-spacing: 0.08697861vw;
+  margin-bottom: 2.239569vw;
+}
+.stories_page .second_block .right_side .first_parag {
+  /* Style for "Тщеславие" */
+  width: 21.562362vw;
+  height: 2.291652vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Тщеславие" */
+  letter-spacing: 0.0416664vw;
+  margin-bottom: 2.187486vw;
+}
+.stories_page .second_block .right_side .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Style for "Layer 22" */
+  width: 46.8747vw;
+  height: 31.2498vw;
+  background: url("../img/stories-second-block-right.jpg") no-repeat 52% 41%;
+  background-size: cover;
+  margin-bottom: 1.458324vw;
+}
+.stories_page .second_block .right_side .img p {
+  /* Style for "MILANO CAM" */
+  text-align: center;
+  width: 9.427023vw;
+  height: 2.968731vw;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 1.145826vw;
+  font-weight: bold;
+  line-height: 1.67967675vw;
+  text-transform: uppercase;
+  /* Text style for "MILANO" */
+  font-size: 1.770822vw;
+  letter-spacing: 0.07239537vw;
+  text-transform: uppercase;
+  /* Text style for "CAMPAIGN 2" */
+  letter-spacing: 0.04635387vw;
+}
+.stories_page .second_block .right_side .img_title {
+  /* Style for "Discover F" */
+  width: 4.635387vw;
+  height: 0.468747vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover F" */
+  letter-spacing: 0.0416664vw;
+  margin-bottom: 4.427055vw;
+}
+.stories_page .second_block .right_side .last_parag {
+  /* Style for "Giuoco Pia" */
+  width: 24.635259vw;
+  height: 1.510407vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Giuoco Pia" */
+  letter-spacing: 0.0416664vw;
+}
+.stories_page .third_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 2.499984vw 4.427055vw 1.249992vw;
+}
+.stories_page .third_block .left_side .title {
+  color: #000000;
+  font-family: "Minion Pro";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "SS 2020" */
+  letter-spacing: 0.08697861vw;
+  margin-bottom: 1.718739vw;
+  margin-left: 22.083192vw;
+}
+.stories_page .third_block .left_side .first_parag {
+  /* Style for "Тщеславие" */
+  width: 21.562362vw;
+  height: 2.291652vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Тщеславие" */
+  letter-spacing: 0.0416664vw;
+  margin-bottom: 3.12498vw;
+  margin-left: 21.926943vw;
+}
+.stories_page .third_block .left_side .img {
+  width: 55.468395vw;
+  height: 36.926847vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../img/stories-third-block-left.jpg");
+  background-size: cover;
+  margin-bottom: 0.729162vw;
+}
+.stories_page .third_block .left_side .img p {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Gals Light";
+  font-size: 1.145826vw;
+  font-weight: bold;
+  line-height: 1.67967675vw;
+  text-transform: uppercase;
+  /* Text style for "MILANO" */
+  font-size: 1.770822vw;
+  letter-spacing: 0.07239537vw;
+  text-transform: uppercase;
+  /* Text style for "CAMPAIGN 2" */
+  letter-spacing: 0.04635387vw;
+}
+.stories_page .third_block .left_side p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover F" */
+  letter-spacing: 0.0416664vw;
+}
+.stories_page .third_block .right_side .video {
+  /* Style for "Layer 23" */
+  width: 31.718547vw;
+  height: 47.499696vw;
+  margin-bottom: 1.04166vw;
+  position: relative;
+}
+.stories_page .third_block .right_side .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.stories_page .third_block .right_side .img_title {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover F" */
+  letter-spacing: 0.0416664vw;
+  margin-left: 3.020814vw;
+}
+
+.spring_summer {
+  padding-top: 5.416632vw;
+  padding-bottom: 2.499984vw;
+  background: #f5f2ef;
+}
+.spring_summer .img_title {
+  /* Style for "Discover S" */
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Discover S" */
+  letter-spacing: 0.0416664vw;
+}
+.spring_summer .first_block {
+  margin-bottom: 10.4166vw;
+}
+.spring_summer .first_block .title {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "SS 2020" */
+  letter-spacing: 0.08697861vw;
+  margin-left: 25.781085vw;
+  margin-bottom: 3.020814vw;
+}
+.spring_summer .first_block .video {
+  /* Style for "Layer 7" */
+  width: 57.81213vw;
+  height: 32.551875vw;
+  margin-left: 14.374908vw;
+  margin-bottom: 2.031237vw;
+  position: relative;
+}
+.spring_summer .first_block .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.spring_summer .first_block .first_parag, .spring_summer .first_block .last_parag {
+  width: 21.562362vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Тщеславие" */
+  letter-spacing: 0.0416664vw;
+  margin-left: 25.624836vw;
+}
+.spring_summer .first_block .first_parag {
+  margin-bottom: 3.437478vw;
+}
+.spring_summer .second_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4.270806vw 0 9.999936vw;
+  margin-bottom: 9.010359vw;
+}
+.spring_summer .second_block img {
+  margin-bottom: 1.249992vw;
+}
+.spring_summer .second_block .left_side img {
+  /* Style for "5461" */
+  width: 30.833136vw;
+}
+.spring_summer .second_block .right_side img {
+  width: 45.728874vw;
+  margin-top: 7.81245vw;
+}
+.spring_summer .third_block {
+  padding: 0 18.541548vw;
+  margin-bottom: 7.968699vw;
+}
+.spring_summer .third_block img {
+  width: 62.291268vw;
+  margin-bottom: 1.145826vw;
+}
+.spring_summer .fourth_block {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 11.614509vw 0 5.624964vw;
+}
+.spring_summer .fourth_block .left_side img {
+  margin-bottom: 0.885411vw;
+  width: 30.885219vw;
+}
+.spring_summer .fourth_block .right_side img {
+  margin-top: 6.093711vw;
+  margin-bottom: 0.885411vw;
+  width: 30.937302vw;
+}
+
+.designer_page {
+  padding-top: 5.833296vw;
+  background: #f5f2ef;
+  padding-bottom: 5.2083vw;
+}
+.designer_page .first_parag, .designer_page .last_parag {
+  width: 21.510279vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Тщеславие" */
+  letter-spacing: 0.0416664vw;
+}
+.designer_page .first_parag {
+  margin-bottom: 1.302075vw;
+}
+.designer_page .title {
+  width: 9.062442vw;
+  color: #000000;
+  font-family: "Gals light";
+  font-size: 1.56249vw;
+  font-weight: 400;
+  line-height: 1.56926079vw;
+  text-transform: uppercase;
+  /* Text style for "INTERVIEW" */
+  letter-spacing: 0.08697861vw;
+  margin-left: 19.010295vw;
+  margin-bottom: 3.020814vw;
+}
+.designer_page .first_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  padding: 0 6.24996vw 0 7.552035vw;
+  margin-bottom: 13.645746vw;
+}
+.designer_page .first_block .left_side .video {
+  /* Style for "Layer 20" */
+  width: 57.81213vw;
+  height: 32.551875vw;
+  position: relative;
+}
+.designer_page .first_block .left_side .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.designer_page .first_block .right_side .first_parag {
+  margin-top: 14.947821vw;
+}
+.designer_page .second_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 6.24996vw 0 5.624964vw;
+  margin-bottom: 16.249896vw;
+}
+.designer_page .second_block img:first-child {
+  width: 44.583048vw;
+  margin-top: 6.718707vw;
+}
+.designer_page .second_block img:last-child {
+  width: 30.312306vw;
+}
+.designer_page .third_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  padding: 0 4.218723vw 0 9.322857vw;
+  margin-bottom: 12.187422vw;
+}
+.designer_page .third_block .left_side .img {
+  width: 30.364389vw;
+  height: 45.520542vw;
+  background-size: 120vw;
+  background: url(../img/designer-third-block-left.png) 49% 0%;
+}
+.designer_page .third_block .right_side img {
+  width: 45.520542vw;
+  margin-top: 2.60415vw;
+  margin-bottom: 7.395786vw;
+}
+.designer_page .third_block .right_side .first_parag, .designer_page .third_block .right_side .last_parag {
+  margin-left: 12.187422vw;
+}
+.designer_page .fourth_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 9.218691vw;
+}
+.designer_page .fourth_block .left_side {
+  margin-top: 11.510343vw;
+}
+.designer_page .fourth_block .left_side p {
+  width: 16.926975vw;
+  margin-left: 9.218691vw;
+}
+.designer_page .fourth_block .right_side img {
+  width: 59.218371vw;
+}
+.designer_page .five_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 13.749912vw;
+}
+.designer_page .five_block img:first-child {
+  width: 44.635131vw;
+}
+.designer_page .five_block img:last-child {
+  width: 44.530965vw;
+  margin-top: 12.812418vw;
+}
+.designer_page .six_block {
+  margin-bottom: 11.770758vw;
+}
+.designer_page .six_block img {
+  margin-left: 20.520702vw;
+  width: 59.530869vw;
+  margin-bottom: 3.385395vw;
+}
+.designer_page .six_block .first_parag, .designer_page .six_block .last_parag {
+  width: 21.562362vw;
+  margin-left: 32.343543vw;
+}
+.designer_page .seven_block img {
+  width: 31.2498vw;
+  margin-left: 34.37478vw;
+}
+
+.shop_page {
+  padding: 2.08332vw 2.708316vw;
+  background: #f5f2ef url(../img/shop-logo.png) no-repeat 86vw 1vw;
+  background-size: 13vw;
+}
+.shop_page nav {
+  margin-bottom: 1.145826vw;
+}
+.shop_page nav ul li {
+  display: inline-block;
+  /* Style for "All" */
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "All" */
+  letter-spacing: 0.0416664vw;
+}
+.shop_page nav ul li:not(:last-child) {
+  margin-right: 3.229146vw;
+}
+.shop_page nav ul li:hover {
+  border-bottom: 0.052083vw solid #000000;
+}
+.shop_page .marketplace {
+  display: flex;
+  justify-content: flex-start;
+  align-items: top;
+}
+.shop_page .marketplace .categories {
+  margin-top: 5.781213vw;
+  width: 4.479138vw;
+  margin-right: 2.968731vw;
+}
+.shop_page .marketplace .categories ul li {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 1.83280077vw;
+  text-transform: uppercase;
+  /* Text style for "ALL ,  ," */
+  letter-spacing: 0.0416664vw;
+}
+.shop_page .marketplace .categories ul li:hover {
+  border-bottom: 0.052083vw solid #000000;
+}
+.shop_page .marketplace .items .first_line, .shop_page .marketplace .items .second_line {
+  display: flex;
+  justify-content: flex-start;
+  align-items: top;
+}
+.shop_page .marketplace .items .first_line {
+  margin-bottom: 4.583304vw;
+}
+.shop_page .marketplace .items .item:nth-child(1), .shop_page .marketplace .items .item:nth-child(3), .shop_page .marketplace .items .item:nth-child(4), .shop_page .marketplace .items .item:nth-child(6) {
+  margin-top: 4.010391vw;
+}
+.shop_page .marketplace .items .item:not(.shop_page .marketplace .items .item:nth-child(3)), .shop_page .marketplace .items .item:not(:nth-child(6)) {
+  margin-right: 2.187486vw;
+}
+.shop_page .marketplace .items .item img {
+  width: 26.458164vw;
+  margin-bottom: 1.145826vw;
+}
+.shop_page .marketplace .items .item .item_title {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "SS 20 , Mo" */
+  letter-spacing: 0.0416664vw;
+}
+
+.item_page {
+  background: #f5f2ef url(../img/shop-logo.png) no-repeat 84vw 1vw;
+  background-size: 13vw;
+  padding: 2.08332vw 0 0 2.708316vw;
+}
+.item_page .mobile__block {
+  display: none;
+}
+.item_page nav ul {
+  width: 16.979058vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.item_page nav ul li {
+  min-width: 1.822905vw;
+}
+.item_page nav ul li a {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "Suits" */
+  letter-spacing: 0.0416664vw;
+  text-decoration: none;
+}
+.item_page .active {
+  border-bottom: 0.052083vw solid #000000;
+}
+.item_page .item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: top;
+  padding-bottom: 8.958276vw;
+}
+.item_page .item .specifications {
+  margin-top: 12.031173vw;
+  margin-left: 4.531221vw;
+}
+.item_page .item .specifications p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* Text style for "jumper" */
+  letter-spacing: 0.0416664vw;
+}
+.item_page .item .specifications .title {
+  margin-bottom: 1.145826vw;
+}
+.item_page .item .specifications .code {
+  margin-bottom: 1.04166vw;
+}
+.item_page .item .specifications .cost {
+  font-size: 0.729162vw;
+  margin-bottom: 1.406241vw;
+}
+.item_page .item .specifications .choose {
+  width: 8.229114vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin-bottom: 1.927071vw;
+}
+.item_page .item .specifications .choose .quantity, .item_page .item .specifications .choose .colour {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.item_page .item .specifications .choose .quantity p, .item_page .item .specifications .choose .colour p {
+  margin-bottom: 0.468747vw;
+}
+.item_page .item .specifications .choose .quantity__input {
+  width: 1.093743vw;
+  height: 0.937494vw;
+  border: 0.052083vw solid #000000;
+  text-align: center;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "1" */
+  letter-spacing: 0.0416664vw;
+}
+.item_page .item .specifications .choose .colour .color {
+  width: 1.197909vw;
+  height: 1.249992vw;
+  background-color: #567fbc;
+}
+.item_page .item .specifications input[type=radio] {
+  display: none;
+}
+.item_page .item .specifications .size {
+  margin-bottom: 0.729162vw;
+}
+.item_page .item .specifications label {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "123456 ," */
+  letter-spacing: 0.0416664vw;
+  margin-right: 1.04166vw;
+  margin-bottom: 1.354158vw;
+}
+.item_page .item .specifications .choose_size_button {
+  margin-bottom: 1.354158vw;
+}
+.item_page .item .specifications button {
+  display: block;
+  width: 10.364517vw;
+  height: 1.718739vw;
+  background-color: #d3d3d3;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  text-transform: uppercase;
+  /* Text style for "SELECT A S" */
+  letter-spacing: 0.0416664vw;
+  box-shadow: none;
+  border: none;
+}
+.item_page .item img:nth-child(1) {
+  width: 26.458164vw;
+  margin-left: 3.749976vw;
+  margin-top: 6.562458vw;
+  margin-right: 4.583304vw;
+}
+.item_page .item img:nth-child(2) {
+  width: 26.56233vw;
+  margin-top: 1.145826vw;
+}
+.item_page .item img:nth-child(4) {
+  width: 22.968603vw;
+  position: relative;
+  bottom: 1.822905vw;
+  margin-left: 7.239537vw;
+  margin-right: 4.583304vw;
+}
+.item_page .item .parag {
+  /* Style for "In the for" */
+  width: 28.281069vw;
+  margin-left: 37.864341vw;
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "In the for" */
+  letter-spacing: 0.0416664vw;
+}
+.item_page .item .video {
+  display: inline-block;
+  vertical-align: top;
+  width: 22.656105vw;
+  height: 34.062282vw;
+  margin-top: 7.552035vw;
+  position: relative;
+}
+.item_page .item .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.compagne {
+  padding-top: 4.010391vw;
+  background: #f5f2ef;
+}
+.compagne p {
+  color: #000000;
+  font-family: "Gals Light";
+  font-size: 0.624996vw;
+  font-weight: bold;
+  line-height: 0.84322377vw;
+  /* Text style for "1.e4 e5 2." */
+  letter-spacing: 0.0416664vw;
+}
+.compagne .block_title {
+  font-size: 1.770822vw;
+  text-transform: uppercase;
+}
+.compagne__first_block {
+  display: flex;
+  justify-content: space-between;
+  background: url("../img/compagne-first-block-left-bg.png") no-repeat 28vw 0vw;
+  background-size: 28vw;
+  margin-bottom: 6.093711vw;
+}
+.compagne__first_block__left_side {
+  margin-left: 13.072833vw;
+}
+.compagne__first_block__left_side .block_title {
+  margin-bottom: 1.04166vw;
+  margin-top: 10.624932vw;
+}
+.compagne__first_block__left_side .first_parag {
+  margin-left: 1.354158vw;
+  margin-bottom: 2.656233vw;
+}
+.compagne__first_block__left_side .second_parag {
+  margin-left: 5.312466vw;
+  margin-bottom: 2.499984vw;
+}
+.compagne__first_block__left_side img {
+  margin-left: 4.895802vw;
+  width: 14.322825vw;
+}
+.compagne__first_block__right_side img {
+  width: 30.676887vw;
+  margin-right: 11.45826vw;
+  margin-bottom: 0.781245vw;
+}
+.compagne__second_block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 11.249928vw;
+}
+.compagne__second_block__left_side {
+  margin-left: 9.062442vw;
+}
+.compagne__second_block__left_side img {
+  width: 30.833136vw;
+  margin-bottom: 1.249992vw;
+}
+.compagne__second_block__right_side {
+  margin-right: 4.270806vw;
+  margin-top: 7.864533vw;
+}
+.compagne__second_block__right_side img {
+  width: 45.728874vw;
+  margin-bottom: 0.989577vw;
+}
+.compagne__third_block {
+  margin-bottom: 11.562426vw;
+}
+.compagne__third_block .video {
+  width: 64.166256vw;
+  height: 42.760143vw;
+  margin-left: 18.176967vw;
+  position: relative;
+}
+.compagne__third_block .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.compagne__fourth_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+}
+.compagne__fourth_block__left_side img {
+  width: 45.676791vw;
+  margin-bottom: 1.406241vw;
+}
+.compagne__fourth_block__left_side .img_title {
+  margin-left: 11.093679vw;
+}
+.compagne__fourth_block__right_side img {
+  width: 45.83304vw;
+  margin-top: 11.302011vw;
+  margin-bottom: 1.56249vw;
+}
+.compagne__five_block {
+  display: flex;
+  justify-content: flex-start;
+  align-items: top;
+  background: url(../img/compagne-five-block-right-bg.png) no-repeat 71vw 4vw;
+  padding-top: 15.6249vw;
+  background-size: 47vw;
+  margin-bottom: 6.614541vw;
+}
+.compagne__five_block__left_side img {
+  margin-bottom: 1.666656vw;
+  width: 53.176743vw;
+}
+.compagne__five_block__left_side .img_title {
+  margin-left: 11.093679vw;
+}
+.compagne__five_block__right_side .block_title {
+  margin-top: 4.739553vw;
+  margin-bottom: 1.04166vw;
+  margin-left: 15.781149vw;
+}
+.compagne__five_block__right_side .first_parag {
+  margin-left: 13.02075vw;
+  margin-bottom: 1.718739vw;
+}
+.compagne__five_block__right_side .second_parag {
+  margin-left: 16.979058vw;
+  margin-bottom: 2.552067vw;
+}
+.compagne__five_block__right_side img {
+  margin-left: 16.14573vw;
+  width: 14.322825vw;
+}
+.compagne__six_block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8.020782vw;
+}
+.compagne__six_block__left_side {
+  margin-left: 5.624964vw;
+  margin-top: 5.052051vw;
+}
+.compagne__six_block__left_side img {
+  margin-bottom: 1.197909vw;
+  width: 30.989385vw;
+}
+.compagne__six_block__right_side {
+  margin-right: 8.489529vw;
+}
+.compagne__six_block__right_side img {
+  width: 31.041468vw;
+  margin-bottom: 1.197909vw;
+}
+.compagne__seven_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin-bottom: 13.02075vw;
+}
+.compagne__seven_block__left_side {
+  margin-left: 9.062442vw;
+  margin-top: 4.374972vw;
+}
+.compagne__seven_block__left_side .video {
+  width: 49.687182vw;
+  height: 33.124788vw;
+  margin-bottom: 3.489561vw;
+  position: relative;
+}
+.compagne__seven_block__left_side .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.compagne__seven_block__right_side {
+  margin-right: 3.281229vw;
+}
+.compagne__seven_block__right_side img {
+  width: 32.187294vw;
+}
+.compagne__eight_block {
+  padding-left: 17.395722vw;
+  margin-bottom: 8.385363vw;
+}
+.compagne__eight_block img {
+  width: 63.853758vw;
+  margin-bottom: 0.937494vw;
+}
+.compagne__nine_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin-bottom: 2.708316vw;
+}
+.compagne__nine_block__left_side {
+  background: url("../img/compagne-nine-block-left-bg.png") no-repeat -4vw -2vw;
+  background-size: 28vw;
+}
+.compagne__nine_block__left_side .block_title {
+  margin-top: 11.041596vw;
+  margin-left: 17.968635vw;
+  margin-bottom: 1.04166vw;
+}
+.compagne__nine_block__left_side .first_parag {
+  margin-left: 14.479074vw;
+  margin-bottom: 2.552067vw;
+}
+.compagne__nine_block__left_side .second_parag {
+  margin-left: 18.437382vw;
+  margin-bottom: 3.385395vw;
+}
+.compagne__nine_block__left_side img {
+  margin-left: 17.812386vw;
+  width: 14.322825vw;
+  border: 0.104166vw solid #000000;
+}
+.compagne__nine_block__right_side {
+  margin-right: 16.562394vw;
+}
+.compagne__nine_block__right_side img {
+  width: 30.833136vw;
+  margin-bottom: 1.197909vw;
+}
+.compagne__ten_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  margin-bottom: 11.562426vw;
+}
+.compagne__ten_block__left_side img {
+  width: 30.937302vw;
+  margin-bottom: 3.177063vw;
+}
+.compagne__ten_block__left_side .img_title {
+  margin-left: 8.906193vw;
+}
+.compagne__ten_block__right_side img {
+  margin-top: 9.999936vw;
+  margin-right: 6.979122vw;
+  width: 45.624708vw;
+  margin-bottom: 1.666656vw;
+}
+.compagne__eleven_block {
+  padding-left: 7.395786vw;
+  padding-bottom: 13.281165vw;
+  background: url(../img/compagne-eleven-block-bg.png) no-repeat 75vw 1vw;
+  background-size: 31vw;
+}
+.compagne__eleven_block .video {
+  width: 59.687118vw;
+  height: 39.791412vw;
+  margin-bottom: 32px;
+  position: relative;
+}
+.compagne__eleven_block .video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.compagne__twelve_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  padding-bottom: 2.031237vw;
+}
+.compagne__twelve_block__left_side {
+  margin-left: 7.395786vw;
+}
+.compagne__twelve_block__left_side img {
+  width: 30.72897vw;
+  margin-bottom: 1.666656vw;
+}
+.compagne__twelve_block__right_side {
+  margin-right: 7.916616vw;
+}
+.compagne__twelve_block__right_side img {
+  margin-top: 6.302043vw;
+  width: 45.520542vw;
+  margin-bottom: 1.145826vw;
+}
+
+@media screen and (max-width: 960px) {
+  .menu {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .main_page__header p {
+    font-size: 0.9vw;
+  }
+
+  .menu__header p {
+    font-size: 0.9vw;
+  }
+  .menu .footer form label {
+    font-size: 0.9vw;
+  }
+  .menu .footer form input {
+    width: 12.5vw;
+    font-size: 0.9vw;
+  }
+  .menu .footer p {
+    font-size: 0.8vw;
+  }
+
+  .page-r p {
+    font-size: 1vw !important;
+  }
+
+  .contact_page .adres__street .shop .shop_adres {
+    font-size: 0.833328vw;
+    line-height: 0.94738977vw;
+  }
+  .contact_page .second_block p {
+    width: 11.45826vw;
+    font-size: 1.04166vw;
+    line-height: 1.04166vw;
+  }
+  .contact_page .third_block p {
+    width: 34.478946vw;
+    font-size: 1.04166vw;
+    line-height: 1.04166vw;
+  }
+  .contact_page .fourth_block {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .contact_page .fourth_block img:first-child {
+    width: 56.77047vw;
+  }
+  .contact_page .fourth_block img:last-child {
+    margin-top: 2.291652vw;
+    width: 38.124756vw;
+  }
+
+  .outlet_page p {
+    font-size: 0.937494vw !important;
+  }
+
+  .stories_page .first_block .left_side p {
+    font-size: 0.624996vw;
+    line-height: 0.84322377vw;
+  }
+  .stories_page .first_block .left_side .title_img {
+    font-size: 0.937494vw;
+    line-height: 1.56926079vw;
+  }
+  .stories_page .first_block .right_side .first_parag, .stories_page .first_block .right_side .second_parag, .stories_page .first_block .right_side .third_parag {
+    font-size: 0.937494vw;
+    line-height: 0.94738977vw;
+  }
+  .stories_page .second_block {
+    margin-bottom: 4.427055vw;
+  }
+  .stories_page .second_block .left_side .img_title {
+    font-size: 0.833328vw;
+    line-height: 0.84322377vw;
+  }
+  .stories_page .second_block .right_side .title {
+    font-size: 1.56249vw;
+    line-height: 1.56926079vw;
+  }
+  .stories_page .second_block .right_side .first_parag, .stories_page .second_block .right_side .last_parag, .stories_page .second_block .right_side .img_title {
+    font-size: 0.833328vw;
+    line-height: 0.94738977vw;
+  }
+  .stories_page .second_block .right_side .first_parag p, .stories_page .second_block .right_side .last_parag p, .stories_page .second_block .right_side .img_title p {
+    font-size: 1.145826vw;
+    line-height: 1.67967675vw;
+  }
+  .stories_page .third_block .left_side .img_title {
+    font-size: 0.833328vw;
+  }
+  .stories_page .third_block .left_side .first_parag {
+    font-size: 0.833328vw;
+    line-height: 0.94738977vw;
+    width: 23.43735vw;
+    margin-bottom: 4.16664vw;
+  }
+  .stories_page .third_block .left_side p {
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 0.624996vw;
+    font-weight: bold;
+    line-height: 0.84322377vw;
+    /* Text style for "Discover F" */
+    letter-spacing: 0.0416664vw;
+  }
+  .stories_page .third_block .right_side .img_title {
+    font-size: 0.833328vw;
+    line-height: 0.84322377vw;
+  }
+
+  .spring_summer .img_title {
+    font-size: 0.937494vw;
+  }
+  .spring_summer .first_block .first_parag, .spring_summer .first_block .last_parag {
+    text-align: justify;
+    width: 31.2498vw;
+    font-size: 1.458324vw;
+    line-height: 1.15572177vw;
+  }
+
+  .designer_page .first_parag, .designer_page .last_parag {
+    width: 21.510279vw;
+    font-size: 0.937494vw;
+    line-height: 0.94738977vw;
+    text-align: justify;
+  }
+
+  .shop_page nav ul li {
+    font-size: 0.833328vw;
+    line-height: 1.31197077vw;
+  }
+  .shop_page .marketplace .categories ul li {
+    font-size: 0.833328vw;
+  }
+
+  .item_page nav ul li a {
+    font-size: 0.833328vw;
+  }
+  .item_page .item .specifications p {
+    font-size: 0.833328vw !important;
+  }
+  .item_page .item .specifications label {
+    font-size: 0.833328vw;
+  }
+  .item_page .item .parag {
+    font-size: 0.833328vw;
+    line-height: 0.94738977vw;
+  }
+
+  .compagne__first_block {
+    background: url(../img/compagne-first-block-left-bg.png) no-repeat 36vw 0vw;
+    background-size: 28vw;
+  }
+  .compagne p {
+    font-size: 0.937494vw;
+  }
+}
+@media screen and (max-width: 640px) {
+  .main_page {
+    background-size: 114%, 118%;
+    background-position: 14% 0%, 90% 100%;
+    background-repeat: no-repeat;
+    height: 154.68651vw;
+  }
+  .main_page__header {
+    padding: 0 5vw;
+    height: 11.562426vw;
+  }
+  .main_page__header p {
+    font-size: 2vw;
+  }
+  .main_page__look_block {
+    flex-direction: column;
+    height: 100%;
+  }
+  .main_page__look_block .item_block p {
+    font-size: 6vw;
+    letter-spacing: 0.4vw;
+    line-height: 3.6vw;
+  }
+  .main_page__look_block .item_block p span {
+    font-size: 4vw;
+  }
+
+  .menu {
+    background: #2e1b1e;
+    padding: 0;
+    position: absolute;
+    width: 100vw;
+  }
+  .menu__header {
+    background: #2e1b1e;
+    padding: 5vw;
+  }
+  .menu__header p {
+    font-size: 2vw !important;
+  }
+  .menu__links {
+    margin: 0 0 0 0 !important;
+    padding: 12.2vw 0 31.3vw 0 !important;
+    background: #2e1b1e url(../img/background-menu.png) no-repeat;
+    background-size: 159%;
+    background-position: 81% 1%;
+  }
+  .menu__links .line {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .menu__links .line p {
+    text-align: center;
+    display: block !important;
+    font-size: 5vw;
+    font-weight: 100;
+    margin: 0 0 9.1vw 0 !important;
+  }
+  .menu__links .line p a {
+    font-size: inherit;
+  }
+  .menu .footer {
+    display: none;
+  }
+  .menu img {
+    position: absolute;
+    bottom: 7vw;
+    width: 38.45vw;
+    left: 41.7vw;
+  }
+
+  .page-r {
+    padding: 0 0 14vw 7vw;
+    margin: 0;
+  }
+  .page-r .page__first_block {
+    padding: 0;
+    display: block;
+    margin-bottom: 8.475vw;
+  }
+  .page-r .page__first_block p {
+    padding: 10vw 0 0 12vw;
+    font-size: 2.5vw !important;
+    line-height: 3.5vw;
+    text-align: justify;
+    letter-spacing: 0.276vw;
+    margin-bottom: 8vw;
+  }
+  .page-r .page__first_block .img_block img {
+    padding: 0;
+    margin: 0 0 3.5vw 0;
+    width: 87vw;
+  }
+  .page-r .page__first_block .img_block p {
+    font-size: 2.8vw !important;
+  }
+  .page-r .page__second_block {
+    margin: 0 0 9.6vw 0;
+    padding: 0;
+    flex-direction: column-reverse;
+  }
+  .page-r .page__second_block .video {
+    margin: 0;
+    padding: 0;
+    width: 86.5vw;
+    height: 48.8vw;
+  }
+  .page-r .page__second_block img {
+    width: 86.9vw;
+    margin: 0 0 4.4vw 0;
+  }
+  .page-r .page__second_block .img_block {
+    margin-bottom: 9.7vw;
+  }
+  .page-r .page__second_block .img_block p {
+    font-size: 2.8vw !important;
+  }
+  .page-r .page__third_block {
+    flex-direction: column-reverse;
+    padding: 0;
+    margin: 0 0 8vw 0;
+  }
+  .page-r .page__third_block p {
+    font-size: 2.8vw !important;
+  }
+  .page-r .page__third_block .left_img_block {
+    padding: 0;
+    margin: 0;
+  }
+  .page-r .page__third_block .left_img_block img {
+    width: 86.7vw;
+    margin-bottom: 5.2vw;
+  }
+  .page-r .page__third_block .left_img_block p {
+    line-height: 3.5vw;
+  }
+  .page-r .page__third_block .right_img_block {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 9.2vw;
+  }
+  .page-r .page__third_block .right_img_block img {
+    width: 86.7vw;
+    margin-bottom: 5.2vw;
+  }
+  .page-r .page__fourth_block {
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+  .page-r .page__fourth_block .left_block {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8.2vw;
+  }
+  .page-r .page__fourth_block .left_block .video {
+    width: 87vw;
+    height: 48.7vw;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5.2vw;
+  }
+  .page-r .page__fourth_block .left_block p {
+    font-size: 2.8vw !important;
+  }
+  .page-r .page__fourth_block .right_blcok {
+    margin: 0;
+    padding: 0;
+  }
+  .page-r .page__fourth_block .right_blcok img {
+    width: 86.7vw;
+    margin-bottom: 4.7vw;
+  }
+  .page-r .page__fourth_block .right_blcok p {
+    font-size: 2.8vw !important;
+  }
+
+  .mobile_footer {
+    background: #f5f2ef;
+    padding: 3vw 8.5vw;
+    display: block;
+  }
+  .mobile_footer__form {
+    margin-bottom: 1vw;
+  }
+  .mobile_footer__form label {
+    display: block;
+    margin-bottom: 1.8vw;
+    font-family: "Gals Light";
+    font-size: 2.8vw;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* Text style for "NEWSLETTER" */
+    letter-spacing: 0.0416666667vw;
+  }
+  .mobile_footer__form input {
+    width: 86.7vw;
+    height: 5.04167vw;
+    margin-bottom: 5vw;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 2.8vw;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* Text style for "NEWSLETTER" */
+    letter-spacing: 0.078125vw;
+    background: none;
+    border: none;
+    border-bottom: 0.1041666667vw solid #000000;
+  }
+  .mobile_footer__form div {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .mobile_footer__form div p {
+    margin: 0;
+    font-family: "Gals Light";
+    font-size: 2.8vw;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .mobile_footer__form div p:nth-child(2) {
+    margin-bottom: 8vw !important;
+  }
+
+  .contact_page .adres {
+    flex-direction: column-reverse;
+    padding: 0 8.593695vw;
+    margin-bottom: 7.968699vw;
+  }
+  .contact_page .adres__map {
+    /* Style for "Layer 19" */
+    width: 85.624452vw;
+    height: 79.843239vw;
+  }
+  .contact_page .adres__street {
+    margin-bottom: 14.999904vw;
+  }
+  .contact_page .adres__street .shop:first-child {
+    margin-bottom: 13.437414vw;
+  }
+  .contact_page .adres__street .shop .title_shop {
+    font-size: 4.68747vw;
+    margin-bottom: 10.312434vw;
+  }
+  .contact_page .adres__street .shop .shop_adres {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    margin-bottom: 7.187454vw;
+  }
+  .contact_page .adres__street .shop button {
+    font-size: 2.812482vw;
+    width: 83.124468vw;
+    height: 9.37494vw;
+  }
+  .contact_page .second_block {
+    flex-direction: column-reverse;
+    padding: 0 7.031205vw;
+  }
+  .contact_page .second_block img {
+    width: 85.311954vw;
+    margin-bottom: 9.37494vw;
+  }
+  .contact_page .second_block p {
+    width: 39.843495vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+    margin: 0 auto;
+  }
+  .contact_page .third_block {
+    padding: 0 7.031205vw;
+    margin-bottom: 10.156185vw;
+  }
+  .contact_page .third_block p {
+    width: 84.218211vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    /* Text style for "The store" */
+    letter-spacing: 0.1406241vw;
+    position: relative;
+    top: 62.968347vw;
+  }
+  .contact_page .fourth_block {
+    padding: 0 7.031205vw;
+    flex-direction: column;
+  }
+  .contact_page .fourth_block img:first-child {
+    width: 85.468203vw;
+    position: relative;
+    bottom: 37.343511vw;
+  }
+  .contact_page .fourth_block img:last-child {
+    width: 85.468203vw;
+  }
+
+  .outlet_page {
+    padding: 11.093679vw 8.437446vw;
+  }
+  .outlet_page p {
+    font-size: 2.812482vw !important;
+    line-height: 3.37341591vw !important;
+  }
+  .outlet_page img {
+    width: 82.968219vw !important;
+    margin-bottom: 7.81245vw !important;
+  }
+  .outlet_page__first_block {
+    padding: 0;
+    margin: 0;
+    display: block;
+    margin-bottom: 9.062442vw;
+  }
+  .outlet_page__first_block .look:first-child {
+    margin-bottom: 11.718675vw;
+  }
+  .outlet_page__second_block {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10.312434vw;
+  }
+  .outlet_page__third_block {
+    display: block;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 13.281165vw;
+  }
+  .outlet_page__third_block .look:first-child {
+    margin-bottom: 11.874924vw;
+  }
+  .outlet_page__third_block .look:last-child {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .stories_page {
+    padding-top: 14.374908vw;
+  }
+  .stories_page .first_block {
+    display: block;
+    padding: 0 6.874956vw;
+    margin-bottom: 9.37494vw;
+  }
+  .stories_page .first_block .left_side {
+    margin-bottom: 10.156185vw;
+  }
+  .stories_page .first_block .left_side .img {
+    width: 85.93695vw;
+    height: 57.187134vw;
+  }
+  .stories_page .first_block .left_side .img p {
+    font-size: 4.374972vw;
+    line-height: 3.91559994vw;
+  }
+  .stories_page .first_block .left_side .title_img {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+  }
+  .stories_page .first_block .right_side .title {
+    font-size: 3.12498vw;
+    margin-bottom: 7.031205vw;
+  }
+  .stories_page .first_block .right_side .first_parag, .stories_page .first_block .right_side .second_parag {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    width: 83.280717vw;
+  }
+  .stories_page .first_block .right_side .first_parag {
+    margin-bottom: 5.156217vw;
+  }
+  .stories_page .first_block .right_side .third_parag {
+    display: none;
+  }
+  .stories_page .second_block {
+    display: block;
+    margin-bottom: 20.624868vw;
+  }
+  .stories_page .second_block .left_side {
+    margin-bottom: 10.156185vw;
+  }
+  .stories_page .second_block .left_side .img {
+    background: url("../img/stories-second-block-left.jpg");
+    background-size: 100%;
+    width: 85.624452vw;
+    height: 122.030469vw;
+  }
+  .stories_page .second_block .left_side .img p {
+    font-size: 2.812482vw;
+    line-height: 3.906225vw;
+  }
+  .stories_page .second_block .left_side .img_title {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+  }
+  .stories_page .second_block .right_side .title {
+    font-size: 3.12498vw;
+    line-height: 6.27808482vw;
+    margin-bottom: 7.031205vw;
+  }
+  .stories_page .second_block .right_side .first_parag {
+    width: 83.280717vw;
+    height: 16.249896vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+    margin-bottom: 7.81245vw;
+  }
+  .stories_page .second_block .right_side .img {
+    width: 86.561946vw;
+    height: 57.655881vw;
+    margin-bottom: 5.937462vw;
+  }
+  .stories_page .second_block .right_side .img p {
+    width: 23.43735vw;
+    text-align: center;
+    font-size: 2.812482vw;
+    line-height: 3.906225vw;
+    height: 7.187454vw;
+  }
+  .stories_page .second_block .right_side .img_title {
+    width: 20.468619vw;
+    height: 2.031237vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+    margin-bottom: 8.437446vw;
+  }
+  .stories_page .second_block .right_side .last_parag {
+    /* Style for "Giuoco Pia" */
+    width: 81.24948vw;
+    height: 6.093711vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+  }
+  .stories_page .third_block {
+    display: block;
+    padding: 0 6.874956vw;
+    padding-bottom: 13.437414vw;
+  }
+  .stories_page .third_block .left_side {
+    margin-bottom: 15.937398vw;
+  }
+  .stories_page .third_block .left_side .title {
+    /* Style for "SS 2020" */
+    width: 15.6249vw;
+    height: 2.187486vw;
+    color: #000000;
+    font-family: "Minion Pro";
+    font-size: 3.12498vw;
+    font-weight: 400;
+    line-height: 6.27808482vw;
+    text-transform: uppercase;
+    /* Text style for "SS 2020" */
+    letter-spacing: 0.13124916vw;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 7.031205vw;
+  }
+  .stories_page .third_block .left_side .first_parag {
+    margin: 0;
+    padding: 0;
+    width: 83.280717vw;
+    height: 16.249896vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+    margin-bottom: 8.749944vw;
+  }
+  .stories_page .third_block .left_side .img {
+    width: 86.561946vw;
+    height: 57.655881vw;
+    background-size: 100%;
+    margin-bottom: 6.406209vw;
+  }
+  .stories_page .third_block .left_side .img p {
+    width: 23.43735vw;
+    height: 7.187454vw;
+    font-size: 2.812482vw;
+    line-height: 3.906225vw;
+  }
+  .stories_page .third_block .left_side .img_title {
+    width: 20.468619vw;
+    height: 2.031237vw;
+    font-size: 2.812482vw;
+  }
+  .stories_page .third_block .right_side .video {
+    width: 85.93695vw;
+    height: 128.749176vw;
+  }
+  .stories_page .third_block .right_side .img_title {
+    width: 20.468619vw;
+    height: 2.031237vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    letter-spacing: 0.1406241vw;
+    margin: 0;
+  }
+
+  .spring_summer {
+    padding-top: 9.843687vw;
+    padding-left: 7.499952vw;
+  }
+  .spring_summer img {
+    width: 86.718195vw !important;
+  }
+  .spring_summer .img_title {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    /* Text style for "Discover S" */
+    letter-spacing: 0.1406241vw;
+  }
+  .spring_summer .first_block {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10.156185vw;
+  }
+  .spring_summer .first_block .title {
+    margin: 0;
+    padding: 0;
+    font-size: 3.12498vw;
+    line-height: 6.27808482vw;
+  }
+  .spring_summer .first_block .video {
+    margin: 0;
+    padding: 0;
+    width: 86.249448vw;
+    height: 48.43719vw;
+    margin-bottom: 4.999968vw;
+  }
+  .spring_summer .first_block .first_parag, .spring_summer .first_block .last_parag {
+    /* Style for "Тщеславие" */
+    margin: 0;
+    padding: 0;
+    width: 83.280717vw;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 2.812482vw;
+    font-weight: bold;
+    line-height: 3.37341591vw;
+    /* Text style for "Тщеславие" */
+    letter-spacing: 0.1406241vw;
+  }
+  .spring_summer .first_block .last_parag {
+    display: none;
+  }
+  .spring_summer .second_block {
+    display: block;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 9.687438vw;
+  }
+  .spring_summer .second_block img {
+    margin-bottom: 4.843719vw;
+  }
+  .spring_summer .second_block .left_side {
+    margin: 0;
+    padding: 0;
+  }
+  .spring_summer .third_block {
+    padding: 0;
+    margin-bottom: 9.531189vw;
+  }
+  .spring_summer .third_block {
+    padding: 0;
+  }
+  .spring_summer .fourth_block {
+    display: block;
+    padding: 0;
+  }
+  .spring_summer .fourth_block .left_side img, .spring_summer .fourth_block .right_side img {
+    margin: 0;
+    margin-bottom: 5.781213vw;
+  }
+  .spring_summer .fourth_block .left_side {
+    margin-bottom: 10.468683vw;
+  }
+
+  .designer_page {
+    padding: 7.499952vw 7.968699vw 11.874924vw;
+  }
+  .designer_page img {
+    width: 84.999456vw !important;
+  }
+  .designer_page .title {
+    margin: 0;
+    margin-bottom: 4.374972vw;
+    /* Style for "INTERVIEW" */
+    font-size: 3.12498vw;
+    line-height: 6.27808482vw;
+    /* Text style for "INTERVIEW" */
+    letter-spacing: 0.13124916vw;
+  }
+  .designer_page .first_parag, .designer_page .last_parag {
+    /* Style for "Тщеславие" */
+    width: 81.093231vw;
+    height: 19.531125vw;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 2.812482vw;
+    font-weight: bold;
+    line-height: 3.37341591vw;
+    /* Text style for "Тщеславие" */
+    letter-spacing: 0.1406241vw;
+  }
+  .designer_page .first_parag {
+    margin-bottom: 1.302075vw;
+  }
+  .designer_page .first_block {
+    display: block;
+    padding: 0;
+    margin-bottom: 8.124948vw;
+  }
+  .designer_page .first_block .left_side .video {
+    width: 83.593215vw;
+    height: 47.030949vw;
+    margin-bottom: 7.81245vw;
+  }
+  .designer_page .first_block .right_side .first_parag {
+    margin: 0;
+  }
+  .designer_page .first_block .right_side .last_parag {
+    display: none;
+  }
+  .designer_page .second_block {
+    display: block;
+    padding: 0;
+    margin-bottom: 11.406177vw;
+  }
+  .designer_page .second_block img:first-child {
+    margin-bottom: 9.843687vw;
+  }
+  .designer_page .second_block img:last-child {
+    width: 84.686958vw;
+  }
+  .designer_page .third_block {
+    display: block;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 11.249928vw;
+  }
+  .designer_page .third_block .left_side {
+    margin: 0;
+    padding: 0;
+  }
+  .designer_page .third_block .left_side .img {
+    width: 84.999456vw;
+    height: 127.655433vw;
+    background-size: 195vw !important;
+    margin-bottom: 10.624932vw;
+  }
+  .designer_page .third_block .right_side img {
+    margin-bottom: 8.124948vw;
+  }
+  .designer_page .third_block .right_side .first_parag, .designer_page .third_block .right_side .last_parag {
+    margin: 0;
+    width: 84.999456vw;
+  }
+  .designer_page .third_block .right_side .last_parag {
+    display: none;
+  }
+  .designer_page .fourth_block {
+    flex-direction: column-reverse;
+  }
+  .designer_page .fourth_block .right_side {
+    margin-bottom: 8.124948vw;
+  }
+  .designer_page .fourth_block .left_side {
+    margin: 0;
+  }
+  .designer_page .fourth_block .left_side p {
+    width: 84.999456vw;
+    margin: 0;
+  }
+  .designer_page .fourth_block .left_side .first_parag {
+    margin-bottom: 4.68747vw;
+  }
+  .designer_page .five_block {
+    display: block;
+  }
+  .designer_page .five_block img:first-child {
+    margin-bottom: 16.406145vw;
+  }
+  .designer_page .five_block img:last-child {
+    margin: 0 -7.81245vw;
+    width: 99.99936vw !important;
+  }
+  .designer_page .six_block {
+    margin: 0;
+    margin-bottom: 8.593695vw;
+  }
+  .designer_page .six_block img {
+    margin: 0;
+    margin-bottom: 7.81245vw;
+  }
+  .designer_page .six_block .first_parag, .designer_page .six_block .last_parag {
+    width: 84.999456vw;
+    margin: 0;
+  }
+  .designer_page .six_block .first_parag {
+    margin: 0;
+  }
+  .designer_page .six_block .last_parag {
+    display: none;
+  }
+  .designer_page .seven_block img {
+    margin: 0;
+  }
+
+  .shop_page {
+    background: none;
+    background-color: #f5f2ef;
+    padding-top: 6.562458vw;
+    padding-left: 7.187454vw;
+  }
+  .shop_page nav {
+    margin-bottom: 11.718675vw;
+  }
+  .shop_page nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  .shop_page nav ul li {
+    font-size: 3.281229vw;
+    line-height: 4.3437222vw;
+    letter-spacing: 0.1249992vw;
+  }
+  .shop_page .marketplace {
+    display: block;
+  }
+  .shop_page .marketplace .categories {
+    width: 100%;
+    margin-bottom: 10.468683vw;
+  }
+  .shop_page .marketplace .categories ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  .shop_page .marketplace .categories ul li {
+    width: 17.812386vw;
+    display: inline-block;
+    font-size: 2.499984vw;
+    line-height: 5.9062122vw;
+    /* Text style for "All     S" */
+    letter-spacing: 0.1249992vw;
+  }
+  .shop_page .marketplace .categories ul li:nth-child(2) {
+    text-align: center;
+  }
+  .shop_page .marketplace .categories ul li:last-child {
+    text-align: right;
+  }
+  .shop_page .marketplace .items img {
+    width: 88.124436vw !important;
+    margin-bottom: 7.187454vw !important;
+  }
+  .shop_page .marketplace .items .first_line, .shop_page .marketplace .items .second_line {
+    display: block;
+  }
+  .shop_page .marketplace .items .item {
+    margin-bottom: 11.093679vw;
+  }
+  .shop_page .marketplace .items .item .item_title {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    /* Text style for "SS 20 , Mo" */
+    letter-spacing: 0.1406241vw;
+  }
+
+  .item_page {
+    padding: 6.562458vw 4.999968vw 0 4.999968vw;
+  }
+  .item_page .mobile__block {
+    display: block;
+  }
+  .item_page nav ul {
+    width: 87.49944vw;
+  }
+  .item_page nav ul li a {
+    font-size: 3.281229vw;
+    line-height: 4.3437222vw;
+    letter-spacing: 0.1249992vw;
+  }
+  .item_page .item {
+    flex-direction: column-reverse;
+  }
+  .item_page .item .specifications {
+    margin: 0;
+    margin-top: 12.49992vw;
+    margin-left: 2.656233vw;
+  }
+  .item_page .item .specifications p {
+    font-size: 2.812482vw !important;
+  }
+  .item_page .item .specifications .title {
+    margin-bottom: 5.937462vw;
+  }
+  .item_page .item .specifications .code {
+    margin-bottom: 4.218723vw;
+  }
+  .item_page .item .specifications .cost {
+    margin-bottom: 9.999936vw;
+  }
+  .item_page .item .specifications .choose {
+    display: none;
+  }
+  .item_page .item .specifications input[type=radio] {
+    display: none;
+  }
+  .item_page .item .specifications .size {
+    display: none;
+  }
+  .item_page .item .specifications label, .item_page .item .specifications .choose_size_button, .item_page .item .specifications button {
+    display: none;
+  }
+  .item_page .item .item_photo {
+    padding: 0;
+    margin-left: 2.656233vw;
+  }
+  .item_page .item .item_photo img {
+    margin: 0;
+    margin-bottom: 7.968699vw;
+    width: 85.780701vw;
+  }
+  .item_page .item .item_photo .video {
+    margin: 0;
+    width: 85.780701vw;
+    height: 128.592927vw;
+  }
+  .item_page .item .item_photo .parag {
+    display: none;
+  }
+  .item_page .item .mobile__block .parag {
+    margin-top: 8.749944vw;
+    margin-left: 4.999968vw;
+    margin-bottom: 14.531157vw;
+    width: 83.749464vw;
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+    /* Text style for "In the for" */
+    letter-spacing: 0.1406241vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose {
+    width: 63.905841vw;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10.93743vw;
+    margin-bottom: 15.468651vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose .quantity, .item_page .item .mobile__block .mobile__specifications .choose .colour {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose .quantity p, .item_page .item .mobile__block .mobile__specifications .choose .colour p {
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 4.843719vw;
+    font-weight: bold;
+    line-height: 6.61089519vw;
+    /* Text style for "Quantity" */
+    letter-spacing: 0.1249992vw;
+    margin-bottom: 3.906225vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose .quantity input, .item_page .item .mobile__block .mobile__specifications .choose .colour input {
+    /* Style for "Rectangle" */
+    width: 8.593695vw;
+    height: 8.749944vw;
+    border: 0.156249vw solid #000000;
+    text-align: center;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 4.843719vw;
+    font-weight: bold;
+    line-height: 6.61089519vw;
+    /* Text style for "1" */
+    letter-spacing: 0.1249992vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose .quantity .color, .item_page .item .mobile__block .mobile__specifications .choose .colour .color {
+    width: 9.062442vw;
+    height: 9.062442vw;
+    background-color: #567fbc;
+  }
+  .item_page .item .mobile__block .mobile__specifications .size {
+    margin-left: 12.49992vw;
+    margin-bottom: 5.781213vw;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 4.843719vw;
+    font-weight: bold;
+    line-height: 6.61089519vw;
+    /* Text style for "Size (Size" */
+    letter-spacing: 0.1249992vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose_size_button {
+    margin-left: 12.49992vw;
+    width: 56.562138vw;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 11.093679vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose_size_button input {
+    display: none;
+  }
+  .item_page .item .mobile__block .mobile__specifications .choose_size_button label {
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 4.843719vw;
+    font-weight: bold;
+    line-height: 6.61089519vw;
+    /* Text style for "123456 ," */
+    letter-spacing: 0.1249992vw;
+  }
+  .item_page .item .mobile__block .mobile__specifications button {
+    /* Style for "Rectangle" */
+    width: 86.249448vw;
+    height: 13.124916vw;
+    background-color: #d3d3d3;
+    color: #000000;
+    font-family: "Gals Light";
+    font-size: 4.843719vw;
+    font-weight: bold;
+    line-height: 6.61089519vw;
+    text-transform: uppercase;
+    /* Text style for "SELECT A S" */
+    letter-spacing: 0.1249992vw;
+    border: none;
+    margin-left: 1.56249vw;
+  }
+
+  .compagne {
+    padding-bottom: 16.093647vw;
+  }
+  .compagne .img_title {
+    width: 82.499472vw;
+  }
+  .compagne .img_title br {
+    display: none;
+  }
+  .compagne p {
+    font-size: 2.812482vw;
+    line-height: 3.37341591vw;
+  }
+  .compagne .block_title {
+    font-size: 5.468715vw;
+    line-height: 5.47027749vw;
+  }
+  .compagne img {
+    width: 82.499472vw !important;
+    margin: 0;
+  }
+  .compagne div {
+    display: block;
+  }
+  .compagne__first_block {
+    padding-top: 15.468651vw;
+    margin-bottom: 13.281165vw;
+    background: url(../img/compagne-first-block-left-bg.png) no-repeat 52vw -10vw;
+    background-size: 64vw;
+  }
+  .compagne__first_block__left_side {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 12.656169vw;
+  }
+  .compagne__first_block__left_side .block_title {
+    margin: 0;
+    margin-left: 12.812418vw;
+    margin-bottom: 8.749944vw;
+  }
+  .compagne__first_block__left_side .first_parag {
+    margin-left: 23.749848vw;
+    margin-bottom: 7.343703vw;
+  }
+  .compagne__first_block__left_side .second_parag {
+    margin-left: 23.749848vw;
+    margin-bottom: 9.687438vw;
+  }
+  .compagne__first_block__left_side img {
+    margin-left: 21.718611vw;
+    width: 57.343383vw !important;
+  }
+  .compagne__first_block__right_side {
+    padding-left: 9.37494vw;
+  }
+  .compagne__first_block__right_side img {
+    margin-bottom: 6.874956vw;
+  }
+  .compagne__first_block__right_side .img_title {
+    width: 81.561978vw;
+  }
+  .compagne__first_block__right_side .img_title br {
+    display: none;
+  }
+  .compagne__second_block {
+    display: flex !important;
+    flex-direction: column-reverse;
+    padding-left: 9.37494vw;
+    margin-bottom: 13.437414vw;
+  }
+  .compagne__second_block__right_side {
+    margin: 0;
+    margin-bottom: 8.749944vw;
+  }
+  .compagne__second_block__right_side img {
+    margin-bottom: 8.906193vw;
+  }
+  .compagne__second_block__left_side {
+    margin: 0;
+  }
+  .compagne__second_block__left_side img {
+    margin-bottom: 7.187454vw;
+  }
+  .compagne__third_block {
+    padding-left: 9.37494vw;
+    margin-bottom: 12.343671vw;
+  }
+  .compagne__third_block .video {
+    margin: 0;
+    width: 82.030725vw;
+    height: 54.68715vw;
+  }
+  .compagne__fourth_block {
+    padding-left: 9.37494vw;
+    margin-bottom: 19.843623vw;
+  }
+  .compagne__fourth_block .img_title {
+    margin: 0;
+  }
+  .compagne__fourth_block__left_side {
+    margin-bottom: 9.687438vw;
+  }
+  .compagne__fourth_block__left_side img {
+    margin-bottom: 7.968699vw;
+  }
+  .compagne__fourth_block__right_side img {
+    margin-bottom: 7.656201vw;
+  }
+  .compagne__five_block {
+    display: flex !important;
+    flex-direction: column-reverse;
+    padding: 0;
+    margin-bottom: 12.656169vw;
+  }
+  .compagne__five_block__right_side {
+    margin-bottom: 13.437414vw;
+  }
+  .compagne__five_block__right_side .block_title {
+    margin-left: 26.093583vw;
+  }
+  .compagne__five_block__right_side .first_parag {
+    margin-left: 23.906097vw;
+  }
+  .compagne__five_block__right_side .second_parag {
+    margin-left: 23.749848vw;
+  }
+  .compagne__five_block__right_side img {
+    width: 57.655881vw !important;
+    margin-left: 20.937366vw;
+  }
+  .compagne__five_block__left_side {
+    padding-left: 9.37494vw;
+  }
+  .compagne__five_block__left_side .img_title {
+    margin: 0;
+  }
+  .compagne__five_block__left_side img {
+    margin-bottom: 6.562458vw;
+  }
+  .compagne__six_block {
+    padding: 0;
+    margin: 0;
+    padding-left: 9.37494vw;
+    margin-bottom: 10.312434vw;
+  }
+  .compagne__six_block__left_side {
+    margin: 0;
+    margin-bottom: 11.249928vw;
+  }
+  .compagne__six_block__left_side img {
+    margin-bottom: 7.343703vw;
+  }
+  .compagne__six_block__right_side {
+    margin: 0;
+  }
+  .compagne__six_block__right_side img {
+    margin-bottom: 7.343703vw;
+  }
+  .compagne__seven_block {
+    padding-left: 9.37494vw;
+    margin-bottom: 5.468715vw;
+  }
+  .compagne__seven_block__left_side {
+    margin: 0;
+    margin-bottom: 6.718707vw;
+  }
+  .compagne__seven_block__left_side .video {
+    width: 83.593215vw;
+    height: 55.624644vw;
+    margin-bottom: 7.343703vw;
+  }
+  .compagne__seven_block__right_side {
+    margin: 0;
+  }
+  .compagne__eight_block {
+    padding-left: 9.37494vw;
+    margin-bottom: 15.468651vw;
+  }
+  .compagne__eight_block img {
+    margin-bottom: 6.093711vw;
+  }
+  .compagne__nine_block {
+    margin-bottom: 9.687438vw;
+  }
+  .compagne__nine_block__left_side {
+    margin-bottom: 12.656169vw;
+  }
+  .compagne__nine_block__left_side .block_title, .compagne__nine_block__left_side .first_parag, .compagne__nine_block__left_side .second_parag {
+    margin: 0;
+  }
+  .compagne__nine_block__left_side .block_title {
+    margin-left: 27.656073vw;
+    margin-bottom: 8.749944vw;
+  }
+  .compagne__nine_block__left_side .first_parag {
+    width: 51.718419vw;
+    margin-left: 23.749848vw;
+    margin-bottom: 7.343703vw;
+  }
+  .compagne__nine_block__left_side .second_parag {
+    margin-left: 23.43735vw;
+    margin-bottom: 9.687438vw;
+  }
+  .compagne__nine_block__left_side img {
+    width: 57.343383vw !important;
+    margin-left: 20.156121vw;
+  }
+  .compagne__nine_block__right_side {
+    margin: 0;
+    padding-left: 9.37494vw;
+  }
+  .compagne__nine_block__right_side img {
+    margin-bottom: 6.874956vw;
+  }
+  .compagne__ten_block {
+    display: flex !important;
+    flex-direction: column-reverse;
+    padding-left: 9.37494vw;
+    margin-bottom: 13.124916vw;
+  }
+  .compagne__ten_block__right_side {
+    margin-bottom: 6.718707vw;
+  }
+  .compagne__ten_block__right_side img {
+    margin-bottom: 6.406209vw;
+  }
+  .compagne__ten_block__left_side img {
+    margin-bottom: 4.531221vw;
+  }
+  .compagne__ten_block__left_side .img_title {
+    margin: 0;
+  }
+  .compagne__eleven_block {
+    padding-left: 9.37494vw;
+    background-size: 45vw;
+  }
+  .compagne__eleven_block .video {
+    /* Style for "Layer 9" */
+    width: 85.780701vw;
+    height: 57.187134vw;
+    margin: 0;
+    margin-bottom: 6.718707vw;
+  }
+  .compagne__eleven_block p {
+    width: 63.437094vw;
+  }
+  .compagne__twelve_block {
+    padding-left: 9.37494vw;
+  }
+  .compagne__twelve_block__left_side {
+    margin: 0;
+    margin-bottom: 14.843655vw;
+  }
+  .compagne__twelve_block__left_side img {
+    margin-bottom: 5.781213vw;
+  }
+  .compagne__twelve_block__right_side img {
+    margin-bottom: 7.031205vw;
+  }
+}
+
+.hidden-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.img {
+  position: relative;
+}
+
+@media screen and (max-width: 480px) {
+  .page-r .page__first_block p {
+    padding: 10vw 0 0 8vw !important;
+  }
+  .page-r .page__first_block .img_block p {
+    padding: 0 !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  .page-r .page__first_block p {
+    padding: 10vw 0 0 2vw !important;
+    font-size: 3vw !important;
+  }
+  .page-r .page__first_block .img_block p {
+    font-size: 3vw !important;
+    padding: 0 !important;
+  }
+  .page-r .page__second_block .img_block p {
+    font-size: 3vw !important;
+  }
+  .page-r .page__third_block .left_img_block p {
+    font-size: 3vw !important;
+  }
+  .page-r .page__third_block .right_img_block p {
+    font-size: 3vw !important;
+  }
+  .page-r .page__fourth_blcok div p {
+    font-size: 3vw !important;
+  }
+
+  .spring_summer .first_block .title {
+    font-size: 4.374972vw;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

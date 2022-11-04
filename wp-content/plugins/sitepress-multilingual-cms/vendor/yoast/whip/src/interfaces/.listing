@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:41 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 01:42 ..
+-rw-r--r--   1 ftp      ftp           350 Jan 23  2019 Whip_DismissStorage.php
+-rw-r--r--   1 ftp      ftp           190 Jan 23  2019 Whip_Listener.php
+-rw-r--r--   1 ftp      ftp            93 Jan 23  2019 Whip_Message.php
+-rw-r--r--   1 ftp      ftp           114 Jan 23  2019 Whip_MessagePresenter.php
+-rw-r--r--   1 ftp      ftp           106 Jan 23  2019 Whip_Requirement.php
+-rw-r--r--   1 ftp      ftp           397 Jan 23  2019 Whip_VersionDetector.php

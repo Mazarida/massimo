@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:52 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:52 ..
+-rw-r--r--   1 ftp      ftp          1785 Jan 23  2019 wpml-frontend-redirection.php
+-rw-r--r--   1 ftp      ftp          1127 Jan 23  2019 wpml-redirect-by-domain.class.php
+-rw-r--r--   1 ftp      ftp          5568 Jan 23  2019 wpml-redirect-by-param.class.php
+-rw-r--r--   1 ftp      ftp           185 Jan 23  2019 wpml-redirect-by-subdir.class.php
+-rw-r--r--   1 ftp      ftp           964 Jan 23  2019 wpml-redirection.class.php
+-rw-r--r--   1 ftp      ftp          1682 Jan 23  2019 wpml-rootpage-redirect-by-subdir.class.php

@@ -1,0 +1,12 @@
+drwxr-xr-x  11 ftp      ftp          4096 Jun 13 00:50 .
+drwxr-xr-x  15 ftp      ftp          4096 Jun 13 01:42 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 divi
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 elastic-press
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 enfold
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 fusion_builder
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 google-sitemap-generator
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 gutenberg
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:49 jetpack
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:50 twentyseventeen
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:50 visual_composer
+-rw-r--r--   1 ftp      ftp           439 Jan 23  2019 wpml-compatibility-factory.php

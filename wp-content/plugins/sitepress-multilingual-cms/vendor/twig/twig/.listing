@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:37 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:26 ..
+-rw-r--r--   1 ftp      ftp         42876 Jan 23  2019 CHANGELOG
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:29 doc
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:29 ext
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:29 lib
+-rw-r--r--   1 ftp      ftp          1497 Jan 23  2019 LICENSE
+-rw-r--r--   1 ftp      ftp           486 Jan 23  2019 README.rst

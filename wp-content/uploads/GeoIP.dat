@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link href="http://allfont.ru/allfont.css?fonts=pt-sans" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="css/styles.min.css">
+	</head>
+	<body>
+		<section class="container">
+			<div class="language">
+				<a href="index.html" class="language__link language__active">рус</a> / <a href="en.html" class="language__link">eng</a>
+			</div>
+		</section>  
+		<section class="container main-info">
+			<h1 class="main-info__heading">Ошибка<br>адресации<br>к веб-серверу</h1>
+			<div class="main-info__causes">
+				<h3>Возможные причины</h3>
+				<p>– Сервер, к которому вы обратились, не зарегистрирован в системе DNS.</p>
+				<p>– Домен, к которому вы обратились, не делегирован или не зарегистрирован.</p>
+			</div>
+		</section>
+		<section class="container general-text">
+			<p>Поддержка и делегирование доменов .ru.net, com.ru, exnet.su и геодоменов (msk.ru, spb.ru и других) осуществляется в регистратуре <br>
+			<a href="http://ru.faitid.org/">Фонда содействия развитию технологий инфраструктуры Интернета</a> с использованием программно-аппаратного комплекса <a href="http://www.flexireg.net/">flexireg</a>.</p>
+			<p>Регистрация и делегирование доменов в системе DNS могут быть выполнены через одного из <a href="http://ru.faitid.org/projects/RU.NET/registrars">аккредитованных регистраторов</a>.</p>
+		</section>
+		<footer class="container footer">
+			<div class="b-footer__links">
+                    <div class="links__col">
+                    	<a href="https://www.nic.ru/" target="_blank">RU–CENTER</a> <br>
+                        <a href="https://www.nic.ru/catalog/domains/" target="_blank">Регистрация доменов</a> <br />
+                        <a href="https://www.nic.ru/catalog/domains/ru/" target="_blank">домены в зоне .ru</a>
+                        <span class="verbar">|</span>
+                        <a href="https://www.nic.ru/catalog/domains/com/" target="_blank">домены в зоне .com</a>
+                        <span class="verbar">|</span>
+                        <a href="https://www.nic.ru/catalog/domains/rf/" target="_blank">домены в зоне .рф</a>
+                    </div>
+                    <div class="links__col">
+                        <a href="https://www.nic.ru/catalog/hosting/" target="_blank">Хостинг для сайтов</a> <br />
+                        <a href="https://www.nic.ru/catalog/hosting/shared/" target="_blank">виртуальный хостинг</a>
+                        <span class="verbar">|</span>
+                        <a href="https://www.nic.ru/catalog/hosting/vds-vps/" target="_blank">VPS/VDS хостинг</a>
+                        <span class="verbar">|</span>
+                        <a href="https://www.nic.ru/catalog/hosting/dedicated/" target="_blank">аренда сервера</a>
+                    </div>
+                    <div class="links__col">
+                        <a href="https://www.nic.ru/catalog/ssl/" target="_blank">SSL-сертификаты</a>
+                        <span class="verbar">|</span> 
+                        <a href="https://www.nic.ru/catalog/sites/sitebuilder/" target="_blank">конструктор сайтов</a>
+                        <span class="verbar">|</span>
+                        <a href="https://www.nic.ru/catalog/mail/on-domain/" target="_blank">почта на домене</a>
+                    </div>
+            </div>
+		</footer>
+
+		<script type="text/javascript" >
+		    (function (d, w, c) {
+		        (w[c] = w[c] || []).push(function() {
+		            try {
+		                w.yaCounter48514055 = new Ya.Metrika({
+		                    id:48514055,
+		                    clickmap:true,
+		                    trackLinks:true,
+		                    accurateTrackBounce:true
+		                });
+		            } catch(e) { }
+		        });
+
+		        var n = d.getElementsByTagName("script")[0],
+		            s = d.createElement("script"),
+		            f = function () { n.parentNode.insertBefore(s, n); };
+		        s.type = "text/javascript";
+		        s.async = true;
+		        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		        if (w.opera == "[object Opera]") {
+		            d.addEventListener("DOMContentLoaded", f, false);
+		        } else { f(); }
+
+		    })(document, window, "yandex_metrika_callbacks");
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/48514055" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	
+	</body>
+</html>

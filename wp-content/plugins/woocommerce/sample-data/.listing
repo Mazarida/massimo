@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   7 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         18265 Jul 25 14:01 sample_products.csv
+-rw-r--r--   1 ftp      ftp        128467 Jul 25 14:01 sample_products.xml
+-rw-r--r--   1 ftp      ftp           266 Jul 25 14:01 sample_tax_rates.csv

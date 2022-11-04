@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:45 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp          1037 Jan 23  2019 class-wpml-upgrade-command-definition.php
+-rw-r--r--   1 ftp      ftp           619 Jan 23  2019 class-wpml-upgrade-command-factory.php
+-rw-r--r--   1 ftp      ftp           317 Jan 23  2019 class-wpml-upgrade-loader-factory.php
+-rw-r--r--   1 ftp      ftp          2866 Jan 23  2019 class-wpml-upgrade-loader.php
+-rw-r--r--   1 ftp      ftp          1030 Jan 23  2019 class-wpml-upgrade-localizations-files.php
+-rw-r--r--   1 ftp      ftp          6176 Jan 23  2019 class-wpml-upgrade.php
+-rw-r--r--   1 ftp      ftp           429 Jan 23  2019 class-wpml-upgrade-run-all.php
+-rw-r--r--   1 ftp      ftp          1826 Jan 23  2019 class-wpml-upgrade-schema.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:45 commands
+-rw-r--r--   1 ftp      ftp           170 Jan 23  2019 interface-iwpml-upgrade-command.php

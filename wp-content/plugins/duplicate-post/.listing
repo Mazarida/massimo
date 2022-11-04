@@ -1,0 +1,11 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 10:02 .
+drwxr-xr-x  16 ftp      ftp          4096 Sep 16 10:02 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 10:02 compat
+-rw-r--r--   1 ftp      ftp          3207 Jun 13 10:02 donate.png
+-rw-r--r--   1 ftp      ftp         25831 Jun 13 10:02 duplicate-post-admin.php
+-rw-r--r--   1 ftp      ftp          5723 Jun 13 10:02 duplicate-post-common.php
+-rw-r--r--   1 ftp      ftp          1296 Jun 13 10:02 duplicate-post.css
+-rw-r--r--   1 ftp      ftp         18170 Jun 13 10:02 duplicate-post-options.php
+-rw-r--r--   1 ftp      ftp          1867 Jun 13 10:02 duplicate-post.php
+-rw-r--r--   1 ftp      ftp         18092 Jun 13 10:02 gpl-2.0.txt
+-rw-r--r--   1 ftp      ftp         12524 Jun 13 10:02 readme.txt

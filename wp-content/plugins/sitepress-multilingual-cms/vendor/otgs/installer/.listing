@@ -1,0 +1,14 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 01:25 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 01:22 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 01:22 dist
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:23 includes
+-rw-r--r--   1 ftp      ftp          3302 Jan 23  2019 installer.php
+-rw-r--r--   1 ftp      ftp          5159 Jan 23  2019 loader.php
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:24 locale
+-rw-r--r--   1 ftp      ftp           531 Jan 23  2019 phpcs.compatibility.xml
+-rw-r--r--   1 ftp      ftp           541 Jan 23  2019 phpcs.xml
+-rw-r--r--   1 ftp      ftp           594 Jan 23  2019 phpunit.xml
+-rw-r--r--   1 ftp      ftp           460 Jan 23  2019 repositories.xml
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:25 res
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 01:25 src
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 01:26 templates

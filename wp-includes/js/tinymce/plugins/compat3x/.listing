@@ -1,0 +1,5 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  24 ftp      ftp          4096 Jun 12 19:33 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 css
+-rw-r--r--   1 ftp      ftp          9450 Jul 25 14:01 plugin.js
+-rw-r--r--   1 ftp      ftp          4129 Jul 25 14:01 plugin.min.js

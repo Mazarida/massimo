@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:46 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 00:46 ..
+-rw-r--r--   1 ftp      ftp          2283 Jan 23  2019 class-wpml-url-converter-abstract-strategy.php
+-rw-r--r--   1 ftp      ftp          2723 Jan 23  2019 class-wpml-url-converter-domain-strategy.php
+-rw-r--r--   1 ftp      ftp          2015 Jan 23  2019 class-wpml-url-converter-parameter-strategy.php
+-rw-r--r--   1 ftp      ftp          5903 Jan 23  2019 class-wpml-url-converter-subdir-strategy.php
+-rw-r--r--   1 ftp      ftp           393 Jan 23  2019 interface-iwpml-url-converter-strategy.php

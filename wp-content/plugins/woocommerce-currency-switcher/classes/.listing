@@ -1,0 +1,10 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jun 13 02:05 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 02:08 ..
+-rw-r--r--   1 ftp      ftp          6121 Jan 24  2019 alert.php
+-rw-r--r--   1 ftp      ftp          4952 Jan 24  2019 auto_switcher.php
+-rw-r--r--   1 ftp      ftp          2387 Jan 24  2019 cron.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:05 fixed
+-rw-r--r--   1 ftp      ftp          2869 Jan 24  2019 storage.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:05 widgets
+-rw-r--r--   1 ftp      ftp        218377 Feb  6  2019 woocs_after_33.php
+-rw-r--r--   1 ftp      ftp        175792 Jan 24  2019 woocs_before_33.php

@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   4 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp         15888 Jul 25 14:01 native.php
+-rw-r--r--   1 ftp      ftp          5212 Jul 25 14:01 shell.php
+-rw-r--r--   1 ftp      ftp          8354 Jul 25 14:01 string.php
+-rw-r--r--   1 ftp      ftp          2210 Jul 25 14:01 xdiff.php

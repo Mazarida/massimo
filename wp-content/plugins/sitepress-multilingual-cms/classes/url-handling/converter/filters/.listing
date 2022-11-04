@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:45 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 00:46 ..
+-rw-r--r--   1 ftp      ftp          4031 Jan 23  2019 class-wpml-lang-domain-filters.php
+-rw-r--r--   1 ftp      ftp          1825 Jan 23  2019 class-wpml-lang-parameter-filters.php
+-rw-r--r--   1 ftp      ftp           400 Jan 23  2019 class-wpml-tax-permalink-filters-factory.php
+-rw-r--r--   1 ftp      ftp          2485 Jan 23  2019 class-wpml-tax-permlink-filters.php

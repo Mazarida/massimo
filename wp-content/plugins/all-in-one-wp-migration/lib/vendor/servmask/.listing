@@ -1,0 +1,9 @@
+drwxr-xr-x   9 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 19:33 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 archiver
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 command
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 cron
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 database
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 filesystem
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 filter
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 iterator

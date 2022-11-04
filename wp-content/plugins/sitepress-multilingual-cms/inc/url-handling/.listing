@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:54 .
+drwxr-xr-x  16 ftp      ftp          4096 Jun 13 00:54 ..
+-rw-r--r--   1 ftp      ftp          3773 Jan 23  2019 wpml-lang-url-validator.class.php
+-rw-r--r--   1 ftp      ftp            89 Jan 23  2019 wpml-root-page.class.php
+-rw-r--r--   1 ftp      ftp          4604 Jan 23  2019 wpml-slug-filter.class.php

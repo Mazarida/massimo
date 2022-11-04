@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:09 .
+drwxr-xr-x  12 ftp      ftp          4096 Jun 13 01:10 ..
+-rw-r--r--   1 ftp      ftp          1899 Jan 23  2019 wpml-tf-backend-options-script.js
+-rw-r--r--   1 ftp      ftp          5617 Jan 23  2019 wpml-tf-backend-script.js
+-rw-r--r--   1 ftp      ftp          3653 Jan 23  2019 wpml-tf-frontend-script.js

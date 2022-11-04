@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:09 .
+drwxr-xr-x   6 ftp      ftp          4096 Jun 13 02:09 ..
+-rw-r--r--   1 ftp      ftp          2012 Jan 24  2019 woocs_converter.php
+-rw-r--r--   1 ftp      ftp          4292 Jan 24  2019 woocs.php
+-rw-r--r--   1 ftp      ftp          2220 Jan 24  2019 woocs_rates.php
+-rw-r--r--   1 ftp      ftp           610 Jan 24  2019 woocs_show_current_currency.php

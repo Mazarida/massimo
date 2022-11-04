@@ -1,0 +1,8 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jun 13 02:09 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 02:08 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:09 auto_switcher
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:09 fixed
+-rw-r--r--   1 ftp      ftp         87991 Jan 24  2019 plugin_options.php
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:09 shortcodes
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:09 widgets
+-rw-r--r--   1 ftp      ftp          4567 Jan 24  2019 woocs_order_metabox.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 02:07 .
+drwxr-xr-x   8 ftp      ftp          4096 Jun 13 02:08 ..
+-rw-r--r--   1 ftp      ftp           191 Jan 24  2019 admin.js
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:06 auto_switcher
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:07 chosen
+-rw-r--r--   1 ftp      ftp          5866 Jan 24  2019 fixed.js
+-rw-r--r--   1 ftp      ftp         16204 Jan 24  2019 front.js
+-rw-r--r--   1 ftp      ftp          7153 Jan 24  2019 jquery.ddslick.min.js
+-rw-r--r--   1 ftp      ftp          3961 Jan 24  2019 options.js
+-rw-r--r--   1 ftp      ftp          3843 Jan 24  2019 price-slider_33.js
+-rw-r--r--   1 ftp      ftp          4381 Jan 24  2019 price-slider.js
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 02:08 wselect

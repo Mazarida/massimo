@@ -1,0 +1,16 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:07 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 02:07 ..
+-rw-r--r--   1 ftp      ftp         13477 Jan 24  2019 chosen.css
+-rw-r--r--   1 ftp      ftp          2817 Jan 24  2019 chosen-dark.css
+-rw-r--r--   1 ftp      ftp         42443 Jan 24  2019 chosen.jquery.js
+-rw-r--r--   1 ftp      ftp         26978 Jan 24  2019 chosen.jquery.min.js
+-rw-r--r--   1 ftp      ftp         10767 Jan 24  2019 chosen.min.css
+-rw-r--r--   1 ftp      ftp         42886 Jan 24  2019 chosen.proto.js
+-rw-r--r--   1 ftp      ftp         27375 Jan 24  2019 chosen.proto.min.js
+-rw-r--r--   1 ftp      ftp           872 Jan 24  2019 chosen-sprite@2x.png
+-rw-r--r--   1 ftp      ftp           656 Jan 24  2019 chosen-sprite-dark.png
+-rw-r--r--   1 ftp      ftp           646 Jan 24  2019 chosen-sprite.png
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 02:06 docsupport
+-rw-r--r--   1 ftp      ftp         85742 Jan 24  2019 index.html
+-rw-r--r--   1 ftp      ftp         86196 Jan 24  2019 index.proto.html
+-rw-r--r--   1 ftp      ftp         12053 Jan 24  2019 options.html

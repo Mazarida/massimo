@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x  23 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp        119052 Jul 25 14:01 jquery.flot.js
+-rw-r--r--   1 ftp      ftp         35590 Jul 25 14:01 jquery.flot.min.js
+-rw-r--r--   1 ftp      ftp         23610 Jul 25 14:01 jquery.flot.pie.js
+-rw-r--r--   1 ftp      ftp          7931 Jul 25 14:01 jquery.flot.pie.min.js
+-rw-r--r--   1 ftp      ftp          2504 Jul 25 14:01 jquery.flot.resize.js
+-rw-r--r--   1 ftp      ftp          1180 Jul 25 14:01 jquery.flot.resize.min.js
+-rw-r--r--   1 ftp      ftp          6916 Jul 25 14:01 jquery.flot.stack.js
+-rw-r--r--   1 ftp      ftp          1301 Jul 25 14:01 jquery.flot.stack.min.js
+-rw-r--r--   1 ftp      ftp         11729 Jul 25 14:01 jquery.flot.time.js
+-rw-r--r--   1 ftp      ftp          4623 Jul 25 14:01 jquery.flot.time.min.js

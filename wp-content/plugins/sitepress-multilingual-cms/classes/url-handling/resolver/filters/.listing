@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:46 .
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 00:46 ..
+-rw-r--r--   1 ftp      ftp           350 Jan 23  2019 wpml-absolute-url-persisted-filters-factory.php
+-rw-r--r--   1 ftp      ftp          2221 Jan 23  2019 wpml-absolute-url-persisted-filters.php

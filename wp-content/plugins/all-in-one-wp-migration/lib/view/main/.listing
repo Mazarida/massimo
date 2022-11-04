@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 12 19:33 .
+drwxr-xr-x   9 ftp      ftp          4096 Jun 12 19:33 ..
+-rw-r--r--   1 ftp      ftp          4967 Jul 25 14:01 admin-head.php
+-rw-r--r--   1 ftp      ftp          2227 Jul 25 14:01 backups-htaccess-notice.php
+-rw-r--r--   1 ftp      ftp          2224 Jul 25 14:01 backups-index-notice.php
+-rw-r--r--   1 ftp      ftp          2224 Jul 25 14:01 backups-path-notice.php
+-rw-r--r--   1 ftp      ftp          2228 Jul 25 14:01 backups-webconfig-notice.php
+-rw-r--r--   1 ftp      ftp          1960 Jul 25 14:01 get-support.php
+-rw-r--r--   1 ftp      ftp          2271 Jul 25 14:01 multisite-notice.php
+-rw-r--r--   1 ftp      ftp          2224 Jul 25 14:01 storage-index-notice.php
+-rw-r--r--   1 ftp      ftp          2224 Jul 25 14:01 storage-path-notice.php
+-rw-r--r--   1 ftp      ftp          2229 Jul 25 14:01 wordpress-htaccess-notice.php

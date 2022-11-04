@@ -1,0 +1,16 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jun 13 01:37 ..
+-rw-r--r--   1 ftp      ftp         27038 Jan 23  2019 advanced_legacy.rst
+-rw-r--r--   1 ftp      ftp         29912 Jan 23  2019 advanced.rst
+-rw-r--r--   1 ftp      ftp         19936 Jan 23  2019 api.rst
+-rw-r--r--   1 ftp      ftp          2385 Jan 23  2019 coding_standards.rst
+-rw-r--r--   1 ftp      ftp          8004 Jan 23  2019 deprecated.rst
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:28 filters
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:28 functions
+-rw-r--r--   1 ftp      ftp           235 Jan 23  2019 index.rst
+-rw-r--r--   1 ftp      ftp          3520 Jan 23  2019 installation.rst
+-rw-r--r--   1 ftp      ftp          4629 Jan 23  2019 internals.rst
+-rw-r--r--   1 ftp      ftp          2685 Jan 23  2019 intro.rst
+-rw-r--r--   1 ftp      ftp         18896 Jan 23  2019 recipes.rst
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 01:29 tags
+-rw-r--r--   1 ftp      ftp         27392 Jan 23  2019 templates.rst

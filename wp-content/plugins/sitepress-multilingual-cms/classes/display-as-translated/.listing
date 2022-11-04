@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jun 13 00:33 .
+drwxr-xr-x  58 ftp      ftp          4096 Jun 13 00:48 ..
+-rw-r--r--   1 ftp      ftp           226 Jan 23  2019 class-wpml-cache-terms-per-lang-factory.php
+-rw-r--r--   1 ftp      ftp          1515 Jan 23  2019 class-wpml-cache-terms-per-lang.php
+-rw-r--r--   1 ftp      ftp           692 Jan 23  2019 class-wpml-display-as-translated-default-lang-messages-factory.php
+-rw-r--r--   1 ftp      ftp          2167 Jan 23  2019 class-wpml-display-as-translated-default-lang-messages.php
+-rw-r--r--   1 ftp      ftp          1420 Jan 23  2019 class-wpml-display-as-translated-default-lang-messages-view.php
+-rw-r--r--   1 ftp      ftp           484 Jan 23  2019 class-wpml-display-as-translated-message-for-new-post-factory.php
+-rw-r--r--   1 ftp      ftp          2484 Jan 23  2019 class-wpml-display-as-translated-message-for-new-post.php
+-rw-r--r--   1 ftp      ftp           226 Jan 23  2019 class-wpml-display-as-translated-snippet-filters-factory.php
+-rw-r--r--   1 ftp      ftp          1088 Jan 23  2019 class-wpml-display-as-translated-snippet-filters.php
+-rw-r--r--   1 ftp      ftp           447 Jan 23  2019 class-wpml-fix-links-in-display-as-translated-content-factory.php
+-rw-r--r--   1 ftp      ftp          2320 Jan 23  2019 class-wpml-fix-links-in-display-as-translated-content.php

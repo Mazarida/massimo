@@ -1,0 +1,7 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jun 12 22:41 .
+drwxr-xr-x  10 ftp      ftp          4096 Jun 13 02:33 ..
+-rw-r--r--   1 ftp      ftp           208 Jan 25  2019 autoload_52.php
+-rw-r--r--   1 ftp      ftp           178 Jan 25  2019 autoload.php
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13 02:23 composer
+drwxr-xr-x   4 ftp      ftp          4096 Jun 12 22:55 otgs
+drwxr-xr-x   3 ftp      ftp          4096 Jun 12 22:37 twig

@@ -1,0 +1,11 @@
+drwxr-xr-x   7 ftp      ftp          4096 Jul 26 07:06 .
+drwxr-xr-x  16 ftp      ftp          4096 Sep 16 10:02 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul 26 07:06 css
+-rw-r--r--   1 ftp      ftp          1939 Jul 26 07:06 easy-fancybox.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul 26 07:06 images
+drwxr-xr-x   2 ftp      ftp          4096 Jul 26 07:06 inc
+drwxr-xr-x   2 ftp      ftp          4096 Jul 26 07:06 js
+drwxr-xr-x   2 ftp      ftp          4096 Jul 26 07:06 languages
+-rw-r--r--   1 ftp      ftp         35147 Jul 26 07:06 LICENSE
+-rw-r--r--   1 ftp      ftp           303 Jul 26 07:06 README.md
+-rw-r--r--   1 ftp      ftp         42215 Jul 26 07:06 readme.txt
